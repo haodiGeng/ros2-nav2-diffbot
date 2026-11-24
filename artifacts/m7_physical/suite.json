@@ -1,0 +1,57 @@
+[
+  {
+    "case": "wide_astar_0",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "wide_navfn_0",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "wide_astar_1",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "wide_navfn_1",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "box_astar_0",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "box_navfn_0",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "box_astar_1",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "box_navfn_1",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "narrow_clearance_0",
+    "passed": true,
+    "status": 6
+  },
+  {
+    "case": "wide_clearance_0",
+    "passed": true,
+    "status": 4
+  },
+  {
+    "case": "narrow_astar_0",
+    "passed": true,
+    "status": 4
+  }
+]

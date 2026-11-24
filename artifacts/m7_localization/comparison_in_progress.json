@@ -1,0 +1,168 @@
+{
+  "passed": false,
+  "track_scale": 0.995,
+  "source_sha256": "863b18105b334977e26ad0e08a03ea4bd88ba7e0223b0a5a2ca5e0b97fa11ebb",
+  "only_parameter_difference": "planner_server.ClearanceGate plugin and plugin-specific parameters",
+  "extra_clearance_policy": false,
+  "order": [
+    "astar1",
+    "navfn1",
+    "navfn2",
+    "astar2"
+  ],
+  "runs": [
+    {
+      "planner": "astar",
+      "repetition": 1,
+      "record": "/home/geng/nav_ws/artifacts/m7_localization/compare_astar1_loop/record.json",
+      "phases": [
+        {
+          "label": "around_box",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 27.054,
+          "traveled_distance": 3.1185649972563785,
+          "world_goal_error": 0.12493312075570653,
+          "sampled_circle_clearance": 0.2651177682592871,
+          "plan_count": 26,
+          "first_plan_length": 3.362741545493505
+        },
+        {
+          "label": "return",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 25.598000000000006,
+          "traveled_distance": 3.0148210277729905,
+          "world_goal_error": 0.10250414116019256,
+          "sampled_circle_clearance": 0.2632898359201742,
+          "plan_count": 25,
+          "first_plan_length": 3.3314607378482517
+        },
+        {
+          "label": "wide",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 21.227999999999994,
+          "traveled_distance": 3.136489534229136,
+          "world_goal_error": 0.13032337375061798,
+          "sampled_circle_clearance": 0.25944766429198807,
+          "plan_count": 21,
+          "first_plan_length": 3.296843408145164
+        },
+        {
+          "label": "return_again",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 32.176,
+          "traveled_distance": 3.12231699826771,
+          "world_goal_error": 0.10862534775940859,
+          "sampled_circle_clearance": 0.2998729405944617,
+          "plan_count": 31,
+          "first_plan_length": 3.260011933967892
+        }
+      ]
+    },
+    {
+      "planner": "navfn",
+      "repetition": 1,
+      "record": "/home/geng/nav_ws/artifacts/m7_localization/compare_navfn1_loop/record.json",
+      "phases": [
+        {
+          "label": "around_box",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 26.224000000000004,
+          "traveled_distance": 3.1737022581753287,
+          "world_goal_error": 0.11425283822236959,
+          "sampled_circle_clearance": 0.2718917785769357,
+          "plan_count": 26,
+          "first_plan_length": 3.3125120562656027
+        },
+        {
+          "label": "return",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 26.488,
+          "traveled_distance": 3.043742455735852,
+          "world_goal_error": 0.13891782295926433,
+          "sampled_circle_clearance": 0.2679195307864879,
+          "plan_count": 26,
+          "first_plan_length": 3.184303242841002
+        },
+        {
+          "label": "wide",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 21.759999999999998,
+          "traveled_distance": 3.1334444051616304,
+          "world_goal_error": 0.06083370607606038,
+          "sampled_circle_clearance": 0.3086983460785685,
+          "plan_count": 21,
+          "first_plan_length": 3.250168111223261
+        },
+        {
+          "label": "return_again",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 32.34400000000001,
+          "traveled_distance": 3.1356376946476687,
+          "world_goal_error": 0.1372665578588124,
+          "sampled_circle_clearance": 0.33136117530851417,
+          "plan_count": 31,
+          "first_plan_length": 3.221521689087373
+        }
+      ]
+    },
+    {
+      "planner": "navfn",
+      "repetition": 2,
+      "record": "/home/geng/nav_ws/artifacts/m7_localization/compare_navfn2_loop/record.json",
+      "phases": [
+        {
+          "label": "around_box",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 25.909999999999997,
+          "traveled_distance": 3.1645659430856643,
+          "world_goal_error": 0.11395320879115553,
+          "sampled_circle_clearance": 0.27163381570881273,
+          "plan_count": 25,
+          "first_plan_length": 3.3125120562656027
+        },
+        {
+          "label": "return",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 26.334000000000003,
+          "traveled_distance": 3.0472008828684665,
+          "world_goal_error": 0.08448926863339691,
+          "sampled_circle_clearance": 0.23726212244704703,
+          "plan_count": 25,
+          "first_plan_length": 3.177291298917956
+        },
+        {
+          "label": "wide",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 20.902000000000008,
+          "traveled_distance": 3.121541289864269,
+          "world_goal_error": 0.1380069532978969,
+          "sampled_circle_clearance": 0.2696287818752373,
+          "plan_count": 20,
+          "first_plan_length": 3.250168111223261
+        },
+        {
+          "label": "return_again",
+          "status": 4,
+          "recoveries": 0,
+          "sim_seconds": 31.938000000000002,
+          "traveled_distance": 3.081608084762628,
+          "world_goal_error": 0.14734549102171493,
+          "sampled_circle_clearance": 0.29475057167042185,
+          "plan_count": 31,
+          "first_plan_length": 3.225508816187658
+        }
+      ]
+    }
+  ]
+}

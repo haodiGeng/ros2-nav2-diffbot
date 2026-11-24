@@ -1,0 +1,58 @@
+[
+  {
+    "goal": [
+      2.2,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 17.81306828300012,
+    "recoveries": 0,
+    "max_localization_position_error": 0.04701320901811243,
+    "samples": 171,
+    "sampled_chassis_overlap": 0,
+    "sampled_caster_overlap": 0,
+    "path_length": 3.2126433123595652
+  },
+  {
+    "goal": [
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 17.81153475600013,
+    "recoveries": 0,
+    "max_localization_position_error": 0.05337608957185078,
+    "samples": 174,
+    "sampled_chassis_overlap": 0,
+    "sampled_caster_overlap": 0,
+    "path_length": 3.0272766277961054
+  },
+  {
+    "goal": [
+      2.2,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 16.96057725899982,
+    "recoveries": 0,
+    "max_localization_position_error": 0.1262095474821316,
+    "samples": 166,
+    "sampled_chassis_overlap": 0,
+    "sampled_caster_overlap": 0,
+    "path_length": 3.0487769342143367
+  },
+  {
+    "goal": [
+      0.0,
+      1.4
+    ],
+    "status": 4,
+    "wall_seconds": 24.010878818000037,
+    "recoveries": 0,
+    "max_localization_position_error": 0.15930093946865406,
+    "samples": 235,
+    "sampled_chassis_overlap": 0,
+    "sampled_caster_overlap": 0,
+    "path_length": 4.439405563754638
+  }
+]

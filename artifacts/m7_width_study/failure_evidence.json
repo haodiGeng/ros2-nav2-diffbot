@@ -1,0 +1,62 @@
+[
+  {
+    "case": "gap080_astar_0",
+    "event": {
+      "stamp": 15.462000000000002,
+      "success": false,
+      "reason": "start blocked by cost or clearance",
+      "expanded": 0,
+      "search_ms": 0.02165,
+      "total_ms": 0.034254,
+      "weighted_cost": -1
+    },
+    "sample_stamp": 15.464,
+    "truth": [
+      15.452,
+      1.540380641204907,
+      -0.048022843712469766,
+      -0.004471493217662037
+    ],
+    "map_base_xy": [
+      1.5410418299373956,
+      -0.05045179025484733
+    ],
+    "estimate_minus_world_y": -0.002428946542377561,
+    "blocked_cell": [
+      94,
+      62
+    ],
+    "blocked_cost": 253,
+    "nearby_planned_y": -0.024999952688813387
+  },
+  {
+    "case": "gap080_astar_1",
+    "event": {
+      "stamp": 15.106000000000002,
+      "success": false,
+      "reason": "start blocked by cost or clearance",
+      "expanded": 0,
+      "search_ms": 0.023144,
+      "total_ms": 0.031609,
+      "weighted_cost": -1
+    },
+    "sample_stamp": 15.108,
+    "truth": [
+      15.094,
+      1.5281030038126144,
+      -0.0480723884371128,
+      -0.002376142476928356
+    ],
+    "map_base_xy": [
+      1.5287141599742757,
+      -0.05045222279221752
+    ],
+    "estimate_minus_world_y": -0.0023798343551047207,
+    "blocked_cell": [
+      94,
+      62
+    ],
+    "blocked_cost": 253,
+    "nearby_planned_y": -0.024999952688813387
+  }
+]

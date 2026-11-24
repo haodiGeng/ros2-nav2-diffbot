@@ -1,0 +1,1 @@
+{"planner_id": "ClearanceGate", "navigation_goal_sent": true, "preflight_accepted": true, "preflight_status": 4, "path_points": 51, "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml", "status": 4, "recoveries": 0, "reason": "navigation succeeded"}

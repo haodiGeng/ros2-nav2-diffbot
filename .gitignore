@@ -1,0 +1,29 @@
+# ROS / Python build products
+build/
+install/
+log/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local editor and connection credentials
+.vscode/
+.idea/
+.env
+.env.*
+*.pem
+*.key
+*ed25519*
+*known-hosts*
+
+# Generated runtime logs, process identifiers and delivery bundles
+*.log
+*.pid
+*.tar.gz
+*.zip
+artifacts/m8/delivery/
+artifacts/m8/github_upload/
+
+# Required, small third-party source snapshot for the documented tf2 overlay
+!artifacts/m8/support/geometry2-patched-source.tar.gz

@@ -1,0 +1,14 @@
+{
+  "release_change": "FollowPath.forward_prune_distance=0.6",
+  "other_astar_navigation_parameters_unchanged": true,
+  "M6_default_and_astar_core_unchanged": true,
+  "formal_cases": 10,
+  "formal_sampled_overlaps": 0,
+  "known_unstable_cases": [
+    "narrow_astar_0",
+    "narrow_astar_1"
+  ],
+  "original_three_goals_succeeded_without_recovery": true,
+  "remaining_navigation_processes": [],
+  "failed_goalalign32_candidate_discarded": true
+}

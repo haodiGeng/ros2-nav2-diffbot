@@ -1,0 +1,71 @@
+[
+  {
+    "goal": [
+      2.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 22.822722501000044,
+    "recoveries": 0,
+    "truth_samples": 667,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3079025879851476,
+    "physical_path_length": 2.8928087881515823,
+    "endpoint_world_xy": [
+      2.0254644971426887,
+      -0.08103707262321998
+    ],
+    "map_goal_to_world_endpoint_distance": 0.08494379173354008,
+    "max_amcl_world_position_difference": 0.036732319786118454,
+    "paired_localization_samples": 92,
+    "last_amcl_goal_distance": 0.06038617036816473,
+    "last_amcl_goal_yaw_error": 0.1922880527034927
+  },
+  {
+    "goal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 24.862073604999978,
+    "recoveries": 0,
+    "truth_samples": 729,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.30786686305474786,
+    "physical_path_length": 2.832928943438662,
+    "endpoint_world_xy": [
+      0.12920081983418455,
+      0.051661187602273506
+    ],
+    "map_goal_to_world_endpoint_distance": 0.13914643419902184,
+    "max_amcl_world_position_difference": 0.1389246987205476,
+    "paired_localization_samples": 109,
+    "last_amcl_goal_distance": 0.07103197808043428,
+    "last_amcl_goal_yaw_error": 0.14355713178818605
+  },
+  {
+    "goal": [
+      0.0,
+      1.6,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 16.97991154300007,
+    "recoveries": 0,
+    "truth_samples": 500,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.5867570599176499,
+    "physical_path_length": 1.6595898293347346,
+    "endpoint_world_xy": [
+      0.2419387439779181,
+      1.693489889554559
+    ],
+    "map_goal_to_world_endpoint_distance": 0.2593736981394532,
+    "max_amcl_world_position_difference": 0.3632899428314266,
+    "paired_localization_samples": 70,
+    "last_amcl_goal_distance": 0.09707215512943174,
+    "last_amcl_goal_yaw_error": 0.10646727518633092
+  }
+]

@@ -1,0 +1,3885 @@
+{
+  "scores": [
+    {
+      "stamp": 5.448,
+      "best": {
+        "vx": 0.12857142857142856,
+        "w": -0.6,
+        "total": 10.5,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 2.0000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 5.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.12857142857142856,
+        "w": -0.6,
+        "total": 10.5,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 2.0000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 5.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 5.89,
+      "best": {
+        "vx": 0.15428571428571425,
+        "w": -0.6,
+        "total": 9.100000381469727,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.15428571428571425,
+        "w": -0.6,
+        "total": 9.100000381469727,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 6.31,
+      "best": {
+        "vx": 0.15428571428571425,
+        "w": -0.6,
+        "total": 8.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.15428571428571425,
+        "w": -0.6,
+        "total": 8.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 1.8000000715255737,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 6.756,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": -0.6,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": -0.6,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 7.202,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": -0.2842105263157896,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": -0.2842105263157896,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 7.65,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": -0.15789473684210537,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": -0.15789473684210537,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 8.092,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": -0.22105263157894747,
+        "total": 6.5,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": -0.22105263157894747,
+        "total": 6.5,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 8.536,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.0,
+        "total": 5.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.0,
+        "total": 5.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 8.938,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 5.599999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 5.599999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 9.386,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": -0.03157894736842115,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": -0.03157894736842115,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 9.826,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 10.258,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 10.702,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.28421052631578936,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.28421052631578936,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 11.15,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 11.55,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.28421052631578936,
+        "total": 4.900000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.28421052631578936,
+        "total": 4.900000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 11.986,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 12.434,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 12.882,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 13.324,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 5.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 13.772,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.28421052631578936,
+        "total": 5.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.28421052631578936,
+        "total": 5.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 14.212,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 4.400000095367432,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 14.612,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 4.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 4.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.4000000208616257,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 15.06,
+      "best": {
+        "vx": 0.15428571428571425,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 2.0000000298023224,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.15428571428571425,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 2.0000000298023224,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 15.5,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.699999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.699999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 15.944,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.09473684210526306,
+        "total": 6.199999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.09473684210526306,
+        "total": 6.199999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 16.344,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.15789473684210517,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 16.794,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.15789473684210517,
+        "total": 6.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.15789473684210517,
+        "total": 6.300000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 17.244,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.28421052631578936,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.28421052631578936,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 17.666,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 18.082,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.22105263157894728,
+        "total": 6.099999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 18.508,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.599999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.599999904632568,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 18.944,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 19.368,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.031578947368420957,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.031578947368420957,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 19.812,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.031578947368420957,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.031578947368420957,
+        "total": 5.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 20.256,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.22105263157894728,
+        "total": 5.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 20.704,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.199999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.199999809265137,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.8000000268220901,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 21.142,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": -0.03157894736842115,
+        "total": 4.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": -0.03157894736842115,
+        "total": 4.800000190734863,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.2000000178813934,
+          "PathAlign": 0.0,
+          "PathDist": 0.6000000238418579,
+          "GoalDist": 3.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 21.586,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.0,
+        "total": 2.799999952316284,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.800000011920929,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.0,
+        "total": 2.799999952316284,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.800000011920929,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 22.028,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.09473684210526306,
+        "total": 2.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.6000000089406967,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 1.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.09473684210526306,
+        "total": 2.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.6000000089406967,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 1.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 22.472,
+      "best": {
+        "vx": 0.1671428571428571,
+        "w": 0.031578947368420957,
+        "total": 1.399999976158142,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.20000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.1671428571428571,
+        "w": 0.031578947368420957,
+        "total": 1.399999976158142,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.20000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 22.92,
+      "best": {
+        "vx": 0.11571428571428571,
+        "w": 0.0,
+        "total": 1.399999976158142,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.20000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.11571428571428571,
+        "w": 0.0,
+        "total": 1.399999976158142,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.20000000298023224,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 23.36,
+      "best": {
+        "vx": 0.09,
+        "w": -0.09473684210526326,
+        "total": 0.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.0,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.09,
+        "w": -0.09473684210526326,
+        "total": 0.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 0.0,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 0.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    {
+      "stamp": 23.806,
+      "best": {
+        "vx": 0.0,
+        "w": -0.6,
+        "total": 3.8578364849090576,
+        "critics": {
+          "RotateToGoal": 0.8578364849090576,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    },
+    {
+      "stamp": 24.254,
+      "best": {
+        "vx": 0.0,
+        "w": -0.41052631578947374,
+        "total": 3.652462959289551,
+        "critics": {
+          "RotateToGoal": 0.6524630784988403,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    },
+    {
+      "stamp": 24.656,
+      "best": {
+        "vx": 0.0,
+        "w": -0.34736842105263166,
+        "total": 4.379426002502441,
+        "critics": {
+          "RotateToGoal": 1.379426121711731,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    },
+    {
+      "stamp": 25.056,
+      "best": {
+        "vx": 0.0,
+        "w": -0.22105263157894747,
+        "total": 3.7329695224761963,
+        "critics": {
+          "RotateToGoal": 0.7329695224761963,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    },
+    {
+      "stamp": 25.498,
+      "best": {
+        "vx": 0.0,
+        "w": -0.15789473684210537,
+        "total": 3.6541833877563477,
+        "critics": {
+          "RotateToGoal": 0.6541833281517029,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    },
+    {
+      "stamp": 25.928,
+      "best": {
+        "vx": 0.0,
+        "w": -0.09473684210526326,
+        "total": 4.471418380737305,
+        "critics": {
+          "RotateToGoal": 1.471418023109436,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.0000000149011612,
+          "PathAlign": 0.0,
+          "PathDist": 0.0,
+          "GoalDist": 2.0
+        }
+      },
+      "best_moving": null,
+      "valid_count": 20,
+      "count": 314
+    }
+  ],
+  "paths": [
+    {
+      "stamp": 5.41,
+      "points": [
+        [
+          -4.292421484140508e-19,
+          1.0801159371869971e-36
+        ],
+        [
+          -0.024999952688813387,
+          -0.024999952688813387
+        ],
+        [
+          0.025000048056244673,
+          -0.07499995343387145
+        ],
+        [
+          0.07500004880130273,
+          -0.1249999541789295
+        ],
+        [
+          0.1250000495463608,
+          -0.17499995492398757
+        ],
+        [
+          0.17500005029141885,
+          -0.22499995566904563
+        ],
+        [
+          0.2250000510364769,
+          -0.2749999564141037
+        ],
+        [
+          0.27500005178153497,
+          -0.32499995715916175
+        ],
+        [
+          0.32500005252659303,
+          -0.3749999579042198
+        ],
+        [
+          0.3750000532716511,
+          -0.42499995864927786
+        ],
+        [
+          0.42500005401670915,
+          -0.4749999593943359
+        ],
+        [
+          0.4750000547617672,
+          -0.524999960139394
+        ],
+        [
+          0.4750000547617672,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 6.43,
+      "points": [
+        [
+          0.11199677326522822,
+          -0.019657708312980953
+        ],
+        [
+          0.1250000495463608,
+          -0.024999952688813387
+        ],
+        [
+          0.17500005029141885,
+          -0.07499995343387145
+        ],
+        [
+          0.2250000510364769,
+          -0.1249999541789295
+        ],
+        [
+          0.27500005178153497,
+          -0.17499995492398757
+        ],
+        [
+          0.32500005252659303,
+          -0.22499995566904563
+        ],
+        [
+          0.32500005252659303,
+          -0.2749999564141037
+        ],
+        [
+          0.32500005252659303,
+          -0.32499995715916175
+        ],
+        [
+          0.32500005252659303,
+          -0.3749999579042198
+        ],
+        [
+          0.3750000532716511,
+          -0.42499995864927786
+        ],
+        [
+          0.42500005401670915,
+          -0.4749999593943359
+        ],
+        [
+          0.4750000547617672,
+          -0.524999960139394
+        ],
+        [
+          0.4750000547617672,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 7.478,
+      "points": [
+        [
+          0.253903052672102,
+          -0.1297507674632668
+        ],
+        [
+          0.27500005178153497,
+          -0.1249999541789295
+        ],
+        [
+          0.32500005252659303,
+          -0.17499995492398757
+        ],
+        [
+          0.3750000532716511,
+          -0.22499995566904563
+        ],
+        [
+          0.3750000532716511,
+          -0.2749999564141037
+        ],
+        [
+          0.3750000532716511,
+          -0.32499995715916175
+        ],
+        [
+          0.3750000532716511,
+          -0.3749999579042198
+        ],
+        [
+          0.3750000532716511,
+          -0.42499995864927786
+        ],
+        [
+          0.42500005401670915,
+          -0.4749999593943359
+        ],
+        [
+          0.4750000547617672,
+          -0.524999960139394
+        ],
+        [
+          0.4750000547617672,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 8.528,
+      "points": [
+        [
+          0.35524073567291525,
+          -0.2864694982450294
+        ],
+        [
+          0.3750000532716511,
+          -0.2749999564141037
+        ],
+        [
+          0.3750000532716511,
+          -0.32499995715916175
+        ],
+        [
+          0.3750000532716511,
+          -0.3749999579042198
+        ],
+        [
+          0.3750000532716511,
+          -0.42499995864927786
+        ],
+        [
+          0.42500005401670915,
+          -0.4749999593943359
+        ],
+        [
+          0.4750000547617672,
+          -0.524999960139394
+        ],
+        [
+          0.4750000547617672,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 9.578,
+      "points": [
+        [
+          0.44079093765834193,
+          -0.448640602162227
+        ],
+        [
+          0.42500005401670915,
+          -0.42499995864927786
+        ],
+        [
+          0.42500005401670915,
+          -0.4749999593943359
+        ],
+        [
+          0.4750000547617672,
+          -0.524999960139394
+        ],
+        [
+          0.4750000547617672,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 10.612,
+      "points": [
+        [
+          0.5409416473875104,
+          -0.5983659725432772
+        ],
+        [
+          0.5250000555068253,
+          -0.574999960884452
+        ],
+        [
+          0.5250000555068253,
+          -0.6249999616295101
+        ],
+        [
+          0.5750000562518833,
+          -0.6749999623745682
+        ],
+        [
+          0.6250000569969414,
+          -0.7249999631196262
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.975000077113509,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 11.66,
+      "points": [
+        [
+          0.6771822821205227,
+          -0.726487189779022
+        ],
+        [
+          0.6750000577419994,
+          -0.7249999631196262
+        ],
+        [
+          0.7250000584870575,
+          -0.7749999638646843
+        ],
+        [
+          0.7750000592321156,
+          -0.8249999646097423
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8749999653548004
+        ],
+        [
+          0.9750000622123478,
+          -0.8749999653548004
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.975000077113509,
+          -0.524999960139394
+        ],
+        [
+          2.025000077858567,
+          -0.4749999593943359
+        ],
+        [
+          2.075000078603625,
+          -0.42499995864927786
+        ],
+        [
+          2.125000079348683,
+          -0.3749999579042198
+        ],
+        [
+          2.1750000800937412,
+          -0.32499995715916175
+        ],
+        [
+          2.2250000808387993,
+          -0.2749999564141037
+        ],
+        [
+          2.2750000815838574,
+          -0.22499995566904563
+        ],
+        [
+          2.3250000823289154,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 12.692,
+      "points": [
+        [
+          0.8250338164841401,
+          -0.8127640464144533
+        ],
+        [
+          0.8250000599771736,
+          -0.8249999646097423
+        ],
+        [
+          0.8750000607222317,
+          -0.8249999646097423
+        ],
+        [
+          0.9250000614672897,
+          -0.8249999646097423
+        ],
+        [
+          0.9750000622123478,
+          -0.8249999646097423
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 13.72,
+      "points": [
+        [
+          0.986983184373846,
+          -0.8650391345195516
+        ],
+        [
+          0.9750000622123478,
+          -0.8749999653548004
+        ],
+        [
+          1.0250000629574059,
+          -0.8749999653548004
+        ],
+        [
+          1.075000063702464,
+          -0.8749999653548004
+        ],
+        [
+          1.125000064447522,
+          -0.8749999653548004
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 14.752,
+      "points": [
+        [
+          1.1671611416110996,
+          -0.8817761192428963
+        ],
+        [
+          1.17500006519258,
+          -0.8749999653548004
+        ],
+        [
+          1.225000065937638,
+          -0.8749999653548004
+        ],
+        [
+          1.2750000666826962,
+          -0.8749999653548004
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 15.794,
+      "points": [
+        [
+          1.3424747236227144,
+          -0.8685674803698996
+        ],
+        [
+          1.3250000674277542,
+          -0.8749999653548004
+        ],
+        [
+          1.3750000681728123,
+          -0.8749999653548004
+        ],
+        [
+          1.4250000689178703,
+          -0.8249999646097423
+        ],
+        [
+          1.4750000696629284,
+          -0.8249999646097423
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 16.834,
+      "points": [
+        [
+          1.5233013260372545,
+          -0.8233718423345018
+        ],
+        [
+          1.5250000704079865,
+          -0.8249999646097423
+        ],
+        [
+          1.5750000711530445,
+          -0.8249999646097423
+        ],
+        [
+          1.6250000718981026,
+          -0.8249999646097423
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 17.834,
+      "points": [
+        [
+          1.6777866886068338,
+          -0.751435344645946
+        ],
+        [
+          1.6750000726431606,
+          -0.7749999638646843
+        ],
+        [
+          1.7250000733882187,
+          -0.7249999631196262
+        ],
+        [
+          1.7750000741332768,
+          -0.7249999631196262
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.975000077113509,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 18.82,
+      "points": [
+        [
+          1.813337356365911,
+          -0.6554779891424762
+        ],
+        [
+          1.8250000748783348,
+          -0.6749999623745682
+        ],
+        [
+          1.8750000756233929,
+          -0.6249999616295101
+        ],
+        [
+          1.925000076368451,
+          -0.574999960884452
+        ],
+        [
+          1.975000077113509,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 19.842,
+      "points": [
+        [
+          1.9360543658225868,
+          -0.5454797436296959
+        ],
+        [
+          1.925000076368451,
+          -0.524999960139394
+        ],
+        [
+          1.975000077113509,
+          -0.4749999593943359
+        ],
+        [
+          2.025000077858567,
+          -0.42499995864927786
+        ],
+        [
+          2.075000078603625,
+          -0.3749999579042198
+        ],
+        [
+          2.125000079348683,
+          -0.32499995715916175
+        ],
+        [
+          2.125000079348683,
+          -0.2749999564141037
+        ],
+        [
+          2.1750000800937412,
+          -0.22499995566904563
+        ],
+        [
+          2.2250000808387993,
+          -0.17499995492398757
+        ],
+        [
+          2.2750000815838574,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 20.87,
+      "points": [
+        [
+          2.0618192073423645,
+          -0.4076631189764917
+        ],
+        [
+          2.075000078603625,
+          -0.42499995864927786
+        ],
+        [
+          2.125000079348683,
+          -0.3749999579042198
+        ],
+        [
+          2.1750000800937412,
+          -0.32499995715916175
+        ],
+        [
+          2.2250000808387993,
+          -0.2749999564141037
+        ],
+        [
+          2.2750000815838574,
+          -0.22499995566904563
+        ],
+        [
+          2.3250000823289154,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 21.906,
+      "points": [
+        [
+          2.1767465716163623,
+          -0.26904981591972404
+        ],
+        [
+          2.1750000800937412,
+          -0.2749999564141037
+        ],
+        [
+          2.2250000808387993,
+          -0.22499995566904563
+        ],
+        [
+          2.2750000815838574,
+          -0.17499995492398757
+        ],
+        [
+          2.3250000823289154,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 22.918,
+      "points": [
+        [
+          2.281969460719883,
+          -0.14506657673921886
+        ],
+        [
+          2.2750000815838574,
+          -0.1249999541789295
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 23.946,
+      "points": [
+        [
+          2.3343825091061667,
+          -0.08145656326063387
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 25.004,
+      "points": [
+        [
+          2.328663648539566,
+          -0.06852492916773198
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "stamp": 26.038,
+      "points": [
+        [
+          2.3266594608945845,
+          -0.07592730626159451
+        ],
+        [
+          2.3250000823289154,
+          -0.07499995343387145
+        ],
+        [
+          2.3750000830739735,
+          -0.024999952688813387
+        ],
+        [
+          2.4,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

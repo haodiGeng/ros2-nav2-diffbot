@@ -1,0 +1,71 @@
+[
+  {
+    "goal": [
+      2.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 22.822370050000018,
+    "recoveries": 0,
+    "truth_samples": 670,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3077448413846129,
+    "physical_path_length": 3.059470909562825,
+    "endpoint_world_xy": [
+      2.025312105484821,
+      -0.07495402159805695
+    ],
+    "map_goal_to_world_endpoint_distance": 0.07911262881358884,
+    "max_amcl_world_position_difference": 0.03084233530014999,
+    "paired_localization_samples": 99,
+    "last_amcl_goal_distance": 0.09604116388344686,
+    "last_amcl_goal_yaw_error": 0.1650636887827367
+  },
+  {
+    "goal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 30.865598782999996,
+    "recoveries": 0,
+    "truth_samples": 895,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.32687181119574427,
+    "physical_path_length": 3.143943018617429,
+    "endpoint_world_xy": [
+      0.10542017001788483,
+      0.06517857554893747
+    ],
+    "map_goal_to_world_endpoint_distance": 0.1239421597245598,
+    "max_amcl_world_position_difference": 0.16840346130927722,
+    "paired_localization_samples": 140,
+    "last_amcl_goal_distance": 0.11212301153270088,
+    "last_amcl_goal_yaw_error": 0.18638836688560817
+  },
+  {
+    "goal": [
+      0.0,
+      1.6,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 16.0420855939999,
+    "recoveries": 0,
+    "truth_samples": 470,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.5487236098847491,
+    "physical_path_length": 1.6315526986845392,
+    "endpoint_world_xy": [
+      0.233826041839071,
+      1.6526989812218396
+    ],
+    "map_goal_to_world_endpoint_distance": 0.23969105211489805,
+    "max_amcl_world_position_difference": 0.2657416645177272,
+    "paired_localization_samples": 68,
+    "last_amcl_goal_distance": 0.0900216882624406,
+    "last_amcl_goal_yaw_error": 0.18039702080485034
+  }
+]

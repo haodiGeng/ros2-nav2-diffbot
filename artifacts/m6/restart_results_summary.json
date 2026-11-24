@@ -1,0 +1,23 @@
+[
+  {
+    "goal": [
+      2.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 38.82079159099976,
+    "recoveries": 1,
+    "truth_samples": 941,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.33697574934980357,
+    "physical_path_length": 3.1531688597282233,
+    "endpoint_world_xy": [
+      2.056337834614663,
+      -0.07113840615322646
+    ],
+    "map_goal_to_world_endpoint_distance": 0.09074483147315061,
+    "max_amcl_world_position_difference": 0.03336041595629286,
+    "paired_localization_samples": 137
+  }
+]

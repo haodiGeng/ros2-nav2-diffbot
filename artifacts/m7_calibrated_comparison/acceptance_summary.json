@@ -1,0 +1,93 @@
+{
+  "comparison_runs": [
+    {
+      "planner": "astar",
+      "repetition": 1,
+      "successful_goals": 4,
+      "recoveries": 0,
+      "total_sim_seconds": 106.056,
+      "traveled_distance": 12.392192557526215,
+      "world_goal_error_max": 0.13032337375061798,
+      "minimum_sampled_circle_clearance": 0.25944766429198807,
+      "initial_plan_length_sum": 13.251057625454813
+    },
+    {
+      "planner": "navfn",
+      "repetition": 1,
+      "successful_goals": 4,
+      "recoveries": 0,
+      "total_sim_seconds": 106.81600000000002,
+      "traveled_distance": 12.486526813720479,
+      "world_goal_error_max": 0.13891782295926433,
+      "minimum_sampled_circle_clearance": 0.2679195307864879,
+      "initial_plan_length_sum": 12.968505099417238
+    },
+    {
+      "planner": "navfn",
+      "repetition": 2,
+      "successful_goals": 4,
+      "recoveries": 0,
+      "total_sim_seconds": 105.08400000000002,
+      "traveled_distance": 12.414916200581029,
+      "world_goal_error_max": 0.14734549102171493,
+      "minimum_sampled_circle_clearance": 0.23726212244704703,
+      "initial_plan_length_sum": 12.965480282594479
+    },
+    {
+      "planner": "astar",
+      "repetition": 2,
+      "successful_goals": 4,
+      "recoveries": 0,
+      "total_sim_seconds": 107.584,
+      "traveled_distance": 12.689885834087566,
+      "world_goal_error_max": 0.11364108133648186,
+      "minimum_sampled_circle_clearance": 0.25175671400087796,
+      "initial_plan_length_sum": 13.447064507905978
+    }
+  ],
+  "continuous_regressions": [
+    {
+      "trial": 1,
+      "navigation_successes": 5,
+      "preflight_refusals": 1,
+      "recoveries": 0,
+      "minimum_sampled_circle_clearance": 0.265483884278354,
+      "sampled_circle_overlap_count": 0
+    },
+    {
+      "trial": 2,
+      "navigation_successes": 5,
+      "preflight_refusals": 1,
+      "recoveries": 0,
+      "minimum_sampled_circle_clearance": 0.26255335094637866,
+      "sampled_circle_overlap_count": 0
+    }
+  ],
+  "protected_sources_unchanged": {
+    "src/my_planner/CMakeLists.txt": true,
+    "src/my_planner/package.xml": true,
+    "src/my_planner/astar_planner_plugin.xml": true,
+    "src/my_planner/include/my_planner/astar_core.hpp": true,
+    "src/my_planner/include/my_planner/astar_planner.hpp": true,
+    "src/my_planner/test/test_astar_core.cpp": true,
+    "src/my_planner/src/astar_core.cpp": true,
+    "src/my_planner/src/astar_planner.cpp": true,
+    "src/my_robot_navigation/config/nav2_dwb_params.yaml": true,
+    "src/my_robot_navigation/config/nav2_rpp_params.yaml": true,
+    "src/my_robot_navigation/config/nav2_params.yaml": true,
+    "src/my_robot_navigation/maps/my_robot_training.pgm": true
+  },
+  "scene_sha256": {
+    "world.sdf": "805aae7eaf88482ddb408f13b2935475a8dffb10273301e2d642a746402c8431",
+    "map.yaml": "a9d8720cd82b89eb7b583dff1b77f5a18bf0fc697c3440c340869878e3907066",
+    "map.pgm": "c80de56cd24a42fa967016e7b72a15562ee650ce0f7389139595e05ce37433bb",
+    "geometry.json": "70956743c83047fe6955055662e42da6907749a8ece84d06914db45f35a239e4"
+  },
+  "limitations": [
+    "Two repeats per planner, not statistical significance",
+    "Comparison uses zero extra clearance for both planners; production gate tested separately",
+    "Sampled conservative circle clearance is not a continuous collision proof",
+    "Localization randomness and replanning remain; simulation times are not planner CPU times",
+    "No new old-map, dynamic-obstacle or hardware acceptance"
+  ]
+}

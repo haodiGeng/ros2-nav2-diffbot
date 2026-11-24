@@ -1,0 +1,16 @@
+{
+  "lifecycle": {
+    "amcl": "active",
+    "planner_server": "active",
+    "controller_server": "active",
+    "bt_navigator": "active"
+  },
+  "amcl": {
+    "alpha1": 0.001,
+    "alpha2": 0.001,
+    "alpha3": 0.001,
+    "alpha4": 0.001,
+    "alpha5": 0.01,
+    "use_sim_time": true
+  }
+}

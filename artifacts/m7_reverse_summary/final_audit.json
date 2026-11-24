@@ -1,0 +1,12 @@
+{
+  "release_sequences": 2,
+  "steps_per_sequence": 6,
+  "all_expected_action_states": true,
+  "recoveries": 0,
+  "sampled_circle_overlaps": 0,
+  "astar_and_navfn_old_map_goals_succeeded": 6,
+  "M6_defaults_and_astar_core_unchanged": true,
+  "only_navigation_change_rotation_shim_wrapper": true,
+  "world_coordinate_precision_not_resolved": true,
+  "remaining_navigation_processes": []
+}

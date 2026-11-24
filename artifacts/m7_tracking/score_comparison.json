@@ -1,0 +1,122 @@
+[
+  {
+    "variant": "baseline",
+    "status": 4,
+    "recoveries": 5,
+    "wall_seconds": 87.36432050999997,
+    "nearest_score_to_stall_location": {
+      "stamp": 74.362,
+      "best": {
+        "vx": 0.0,
+        "w": -0.34736842105263166,
+        "total": 20.899999618530273,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 5.200000077486038,
+          "PathAlign": 1.2000000178813934,
+          "PathDist": 0.0,
+          "GoalDist": 14.5
+        }
+      },
+      "best_moving": {
+        "vx": 0.15428571428571425,
+        "w": -0.6,
+        "total": 21.299999237060547,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 4.800000071525574,
+          "PathAlign": 1.600000023841858,
+          "PathDist": 2.4000000953674316,
+          "GoalDist": 12.5
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    "sample_location_distance": 0.0010825560998965675
+  },
+  {
+    "variant": "goalalign32",
+    "status": 6,
+    "recoveries": 15,
+    "wall_seconds": 35.66702479200012,
+    "nearest_score_to_stall_location": {
+      "stamp": 9.93,
+      "best": {
+        "vx": 0.15428571428571425,
+        "w": 0.4736842105263156,
+        "total": 33.20000076293945,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 16.800000250339508,
+          "PathAlign": 2.0000000298023224,
+          "PathDist": 2.4000000953674316,
+          "GoalDist": 12.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.15428571428571425,
+        "w": 0.4736842105263156,
+        "total": 33.20000076293945,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 16.800000250339508,
+          "PathAlign": 2.0000000298023224,
+          "PathDist": 2.4000000953674316,
+          "GoalDist": 12.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    "sample_location_distance": 0.03359233483604916
+  },
+  {
+    "variant": "prune06",
+    "status": 4,
+    "recoveries": 0,
+    "wall_seconds": 21.36380621299986,
+    "nearest_score_to_stall_location": {
+      "stamp": 9.826,
+      "best": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "best_moving": {
+        "vx": 0.17999999999999994,
+        "w": 0.09473684210526306,
+        "total": 6.0,
+        "critics": {
+          "RotateToGoal": 0.0,
+          "Oscillation": 0.0,
+          "BaseObstacle": 0.0,
+          "GoalAlign": 1.600000023841858,
+          "PathAlign": 0.4000000059604645,
+          "PathDist": 0.0,
+          "GoalDist": 4.0
+        }
+      },
+      "valid_count": 314,
+      "count": 314
+    },
+    "sample_location_distance": 0.022762133211247024
+  }
+]

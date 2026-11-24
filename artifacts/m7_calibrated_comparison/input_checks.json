@@ -1,0 +1,18 @@
+{
+  "python_compile": "passed",
+  "missing_profile_returncode": 1,
+  "missing_profile_error": "Traceback (most recent call last):\n  File \"/home/geng/nav_ws/src/my_robot_navigation/scripts/localization_study.py\", line 27, in <module>\n    (folder/'params.yaml').write_bytes(profile.read_bytes())\n  File \"/usr/lib/python3.10/pathlib.py\", line 1126, in read_bytes\n    with self.open(mode='rb') as f:\n  File \"/usr/lib/python3.10/pathlib.py\", line 1119, in open\n    return self._accessor.open(self, mode, buffering, encoding, errors,\nFileNotFoundError: [Errno 2] No such file or directory: '/nonexistent/m7_missing_profile.yaml'\n",
+  "protected_sources_unchanged": {
+    "src/my_planner/CMakeLists.txt": true,
+    "src/my_planner/package.xml": true,
+    "src/my_planner/astar_planner_plugin.xml": true,
+    "src/my_planner/include/my_planner/astar_core.hpp": true,
+    "src/my_planner/include/my_planner/astar_planner.hpp": true,
+    "src/my_planner/test/test_astar_core.cpp": true,
+    "src/my_planner/src/astar_core.cpp": true,
+    "src/my_planner/src/astar_planner.cpp": true,
+    "src/my_robot_navigation/config/nav2_dwb_params.yaml": true,
+    "src/my_robot_navigation/config/nav2_rpp_params.yaml": true,
+    "src/my_robot_navigation/config/nav2_params.yaml": true
+  }
+}

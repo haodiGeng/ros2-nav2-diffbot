@@ -1,0 +1,10 @@
+{
+  "boot_id": "5c831a32-cf86-45a9-873f-ea690ee8b667",
+  "uptime_seconds": 267.59,
+  "config_sha256": "917bba1313cab9e40925008b170a9cc63f7ae01c8733f9a5875141e80806109e",
+  "tf2_libraries": [
+    "/home/geng/tf_fix_ws/install/tf2/lib/libtf2.so"
+  ],
+  "amcl_pid": 3022,
+  "patched_tf2_loaded": true
+}

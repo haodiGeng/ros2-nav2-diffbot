@@ -1,0 +1,16 @@
+{
+  "formal_width_trials": 8,
+  "formal_gate_trials": 8,
+  "sampled_overlaps": 0,
+  "ordinary_tested_stable_widths_m": [
+    0.9,
+    1.0,
+    1.2
+  ],
+  "clearance_policy_tested_success_width_m": 1.4,
+  "width_1_2_gate_missions_aborted_not_successful": true,
+  "entry_exit_codes_and_busy_guard_passed": true,
+  "existing_navigation_parameters_unchanged_except_added_gate": true,
+  "astar_core_and_M6_defaults_unchanged": true,
+  "remaining_navigation_processes": []
+}

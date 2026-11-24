@@ -1,0 +1,48 @@
+[
+  {
+    "goal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 47.64668285700009,
+    "recoveries": 1,
+    "truth_samples": 1225,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3458361925893554,
+    "physical_path_length": 3.1238859337855045,
+    "endpoint_world_xy": [
+      0.052665947607293435,
+      -0.07989447592794624
+    ],
+    "map_goal_to_world_endpoint_distance": 0.09569132312375746,
+    "max_amcl_world_position_difference": 0.03293215389892986,
+    "paired_localization_samples": 191,
+    "last_amcl_goal_distance": 0.11201805269848353,
+    "last_amcl_goal_yaw_error": 0.14499424417768542
+  },
+  {
+    "goal": [
+      0.0,
+      1.6,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 23.003208504000213,
+    "recoveries": 0,
+    "truth_samples": 556,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.6428959377347767,
+    "physical_path_length": 1.6124557124112548,
+    "endpoint_world_xy": [
+      0.034909903265042154,
+      1.5089539960859562
+    ],
+    "map_goal_to_world_endpoint_distance": 0.09750936454869709,
+    "max_amcl_world_position_difference": 0.02299763596481087,
+    "paired_localization_samples": 80,
+    "last_amcl_goal_distance": 0.11308673904817386,
+    "last_amcl_goal_yaw_error": 0.10815306215087021
+  }
+]

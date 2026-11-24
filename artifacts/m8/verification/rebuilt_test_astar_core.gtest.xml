@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="14" failures="0" disabled="0" errors="0" time="0.024" timestamp="2026-11-24T14:59:08" name="AllTests">
+  <testsuite name="Search" tests="9" failures="0" disabled="0" errors="0" time="0.022" timestamp="2026-11-24T14:59:08">
+    <testcase name="EightAndFourConnectivity" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="DiagonalPinchIsForbidden" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="BarrierAndBlockedEndpoints" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="UnknownPolicy" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="SameCellAndEndpointSegments" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="WeightChangesRoute" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="RandomMapsMatchIndependentDijkstra" status="run" result="completed" time="0.022" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="TimeBudgetAndCancellationLeaveNoPartialPath" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+    <testcase name="InvalidInputs" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Search" />
+  </testsuite>
+  <testsuite name="Clearance" tests="4" failures="0" disabled="0" errors="0" time="0.002" timestamp="2026-11-24T14:59:08">
+    <testcase name="RejectsNarrowCorridor" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Clearance" />
+    <testcase name="DoesNotTreatInflationAsPhysicalObstacleAgain" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Clearance" />
+    <testcase name="DistanceTransformMatchesBruteForceBound" status="run" result="completed" time="0.002" timestamp="2026-11-24T14:59:08" classname="my_planner.Clearance" />
+    <testcase name="NoObstacleAndMapBorder" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Clearance" />
+  </testsuite>
+  <testsuite name="Segments" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2026-11-24T14:59:08">
+    <testcase name="LongLinesBoundariesAndNonFinite" status="run" result="completed" time="0" timestamp="2026-11-24T14:59:08" classname="my_planner.Segments" />
+  </testsuite>
+</testsuites>

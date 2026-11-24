@@ -1,0 +1,42 @@
+[
+  {
+    "label": "around_box",
+    "world_xy": [
+      0.09366536013678388,
+      2.546069321919747
+    ],
+    "world_goal_difference": 0.10808199539122745
+  },
+  {
+    "label": "return",
+    "world_xy": [
+      -0.01857230457181699,
+      0.07476574782000157
+    ],
+    "world_goal_difference": 0.07703796170844868
+  },
+  {
+    "label": "wide",
+    "world_xy": [
+      3.2294818115896717,
+      -0.09553648096717879
+    ],
+    "world_goal_difference": 0.11874356442463165
+  },
+  {
+    "label": "return_again",
+    "world_xy": [
+      0.14140524669404825,
+      0.0255732203800541
+    ],
+    "world_goal_difference": 0.14369910714131615
+  },
+  {
+    "label": "after_rejection",
+    "world_xy": [
+      0.11758028264069008,
+      -0.664891478698963
+    ],
+    "world_goal_difference": 0.1791073292582337
+  }
+]

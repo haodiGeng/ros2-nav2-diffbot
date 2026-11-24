@@ -1,0 +1,1644 @@
+[
+  {
+    "tag": "baseline",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3334,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.13830380882992466,
+    "tf_map_position_p95": 0.12419517836050847,
+    "aligned_odom_position_max": 0.039041029313739165,
+    "tf_map_yaw_max": 0.07021386152599439,
+    "raw_amcl_position_max": 0.1342175564165901,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.376,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 33.792,
+        "sample_stamp": 33.788,
+        "truth": [
+          0.050873239020025315,
+          2.5344802558142963,
+          0.1353179423847125
+        ],
+        "map_base": [
+          0.06501306349899856,
+          2.5094391663568616,
+          0.13881280751355132
+        ],
+        "estimate_position_error": 0.028757447687710682,
+        "estimate_yaw_error": 0.0034948651288388144,
+        "world_goal_error": 0.082951331071591,
+        "estimated_goal_error": 0.11148077419745982,
+        "world_minus_estimate": [
+          -0.014139824478973245,
+          0.025041089457434662
+        ],
+        "estimate_minus_goal": [
+          0.06501306349899856,
+          -0.0905608336431385
+        ]
+      },
+      {
+        "label": "return",
+        "start": 33.792,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 59.634,
+        "sample_stamp": 59.628,
+        "truth": [
+          0.15303966718574233,
+          0.11972230447822584,
+          -0.10589406245527476
+        ],
+        "map_base": [
+          0.05408973132195177,
+          0.05958015523668923,
+          -0.13990440414061517
+        ],
+        "estimate_position_error": 0.11579364370655035,
+        "estimate_yaw_error": -0.03401034168534041,
+        "world_goal_error": 0.19430535227291035,
+        "estimated_goal_error": 0.08047045378590156,
+        "world_minus_estimate": [
+          0.09894993586379056,
+          0.0601421492415366
+        ],
+        "estimate_minus_goal": [
+          0.05408973132195177,
+          0.05958015523668923
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 59.634,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 80.96600000000001,
+        "sample_stamp": 80.98,
+        "truth": [
+          3.2668801606171254,
+          0.04350883548932812,
+          0.15385749636100932
+        ],
+        "map_base": [
+          3.2052448296655895,
+          -0.028842561976148238,
+          0.14296498099875268
+        ],
+        "estimate_position_error": 0.09504545616026414,
+        "estimate_yaw_error": -0.010892515362256633,
+        "world_goal_error": 0.05468036691889347,
+        "estimated_goal_error": 0.0990476435179104,
+        "world_minus_estimate": [
+          0.06163533095153584,
+          0.07235139746547636
+        ],
+        "estimate_minus_goal": [
+          -0.09475517033441028,
+          -0.028842561976148238
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 80.96600000000001,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 112.876,
+        "sample_stamp": 112.872,
+        "truth": [
+          0.16391504166731433,
+          0.0028029113554280164,
+          -0.08456455645807334
+        ],
+        "map_base": [
+          0.1020989987791053,
+          0.0010134835775293949,
+          -0.1422584917702841
+        ],
+        "estimate_position_error": 0.06184193730899132,
+        "estimate_yaw_error": -0.05769393531221076,
+        "world_goal_error": 0.16393900450125887,
+        "estimated_goal_error": 0.10210402881697503,
+        "world_minus_estimate": [
+          0.06181604288820902,
+          0.0017894277778986215
+        ],
+        "estimate_minus_goal": [
+          0.1020989987791053,
+          0.0010134835775293949
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.02848850133168293,
+    "raw_amcl_yaw_max": 0.06973107720518446,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 2.2204894169137044e-15,
+    "minimum_sampled_circle_clearance": 0.24891615379156862,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "baseline",
+    "mode": "rotation",
+    "completed": true,
+    "paired_tf_count": 1576,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.02506819743600771,
+    "tf_map_position_p95": 0.02438336327120015,
+    "aligned_odom_position_max": 2.834556315605362e-06,
+    "tf_map_yaw_max": 0.07622516968962367,
+    "raw_amcl_position_max": 0.025068195286961362,
+    "phases": [
+      {
+        "label": "rotate_ccw",
+        "start": 6.890000000000001,
+        "end": 29.836000000000002,
+        "sample_stamp": 29.842,
+        "truth": [
+          -9.227716989124745e-07,
+          1.4688034782541112e-07,
+          0.031109246480007458
+        ],
+        "map_base": [
+          0.0005361657352564923,
+          -0.007090790242017204,
+          -0.0082855895088739
+        ],
+        "estimate_position_error": 0.0071112483670335985,
+        "estimate_yaw_error": -0.039394835988881355,
+        "truth_yaw_travel": 6.314312485217478,
+        "odom_base_yaw_travel": 6.283199999772393,
+        "map_base_yaw_travel": 6.274917717670566
+      },
+      {
+        "label": "rotate_cw",
+        "start": 29.836000000000002,
+        "end": 52.782000000000004,
+        "sample_stamp": 52.792,
+        "truth": [
+          -1.7916294782115195e-06,
+          1.363717508181927e-07,
+          1.3090982704765546e-07
+        ],
+        "map_base": [
+          -0.019898229304889072,
+          0.01409553179876186,
+          -0.05553368496926798
+        ],
+        "estimate_position_error": 0.02438336327120015,
+        "estimate_yaw_error": -0.055533815879095026,
+        "truth_yaw_travel": -6.314294422749767,
+        "odom_base_yaw_travel": -6.283181999772626,
+        "map_base_yaw_travel": -6.33043340263998
+      }
+    ],
+    "aligned_odom_yaw_max": 0.031269626197005004,
+    "raw_amcl_yaw_max": 0.07910426340918852,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 3.878959614448864e-18,
+    "minimum_sampled_circle_clearance": 0.6499986758502044,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "baseline",
+    "mode": "straight",
+    "completed": true,
+    "paired_tf_count": 696,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.00806486798559462,
+    "tf_map_position_p95": 0.006310948979831001,
+    "aligned_odom_position_max": 1.663964693116028e-08,
+    "tf_map_yaw_max": 0.02666979682726807,
+    "raw_amcl_position_max": 0.0076148161384513085,
+    "phases": [
+      {
+        "label": "forward",
+        "start": 6.758,
+        "end": 14.760000000000002,
+        "sample_stamp": 14.766,
+        "truth": [
+          0.7202340002677948,
+          8.355703932748854e-16,
+          2.735363540877114e-15
+        ],
+        "map_base": [
+          0.7156137973242336,
+          0.0017611636667740956,
+          0.0016844072743302761
+        ],
+        "estimate_position_error": 0.004944489124353925,
+        "estimate_yaw_error": 0.0016844072743275407
+      },
+      {
+        "label": "backward",
+        "start": 14.760000000000002,
+        "end": 22.752000000000002,
+        "sample_stamp": 22.756,
+        "truth": [
+          0.00048000013993374147,
+          -6.888066599568709e-16,
+          2.018142672414774e-15
+        ],
+        "map_base": [
+          -0.0007369355098085487,
+          0.006103859230348533,
+          -0.014431258425691417
+        ],
+        "estimate_position_error": 0.0062239882615195445,
+        "estimate_yaw_error": -0.014431258425693434
+      }
+    ],
+    "aligned_odom_yaw_max": 4.001837007203983e-15,
+    "raw_amcl_yaw_max": 0.026669796827268052,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 4.440900568822021e-16,
+    "minimum_sampled_circle_clearance": 0.65,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "low_noise1",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3316,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.0930402623335782,
+    "tf_map_position_p95": 0.07138286943313579,
+    "aligned_odom_position_max": 0.02171521751745498,
+    "tf_map_yaw_max": 0.04026871194044012,
+    "raw_amcl_position_max": 0.09593958031926156,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 5.87,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 32.522000000000006,
+        "sample_stamp": 32.538,
+        "truth": [
+          0.07021383104800971,
+          2.5432226736945154,
+          0.1318395615449211
+        ],
+        "map_base": [
+          0.05664986287363636,
+          2.531983711778593,
+          0.13999611928944258
+        ],
+        "estimate_position_error": 0.01761520643032521,
+        "estimate_yaw_error": 0.008156557744521481,
+        "world_goal_error": 0.09029754621714778,
+        "estimated_goal_error": 0.08851792150191591,
+        "world_minus_estimate": [
+          0.013563968174373352,
+          0.011238961915922552
+        ],
+        "estimate_minus_goal": [
+          0.05664986287363636,
+          -0.06801628822140726
+        ]
+      },
+      {
+        "label": "return",
+        "start": 32.522000000000006,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 58.926,
+        "sample_stamp": 58.922,
+        "truth": [
+          0.05087047384853576,
+          0.08074993859923876,
+          -0.14568923970040298
+        ],
+        "map_base": [
+          0.05475976674622071,
+          0.07017000232723226,
+          -0.13821483445913815
+        ],
+        "estimate_position_error": 0.011272162648032602,
+        "estimate_yaw_error": 0.00747440524126483,
+        "world_goal_error": 0.0954377163041708,
+        "estimated_goal_error": 0.08900820906357054,
+        "world_minus_estimate": [
+          -0.0038892928976849497,
+          0.010579936272006499
+        ],
+        "estimate_minus_goal": [
+          0.05475976674622071,
+          0.07017000232723226
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 58.926,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 79.69200000000001,
+        "sample_stamp": 79.696,
+        "truth": [
+          3.161307112830682,
+          -0.08992996329717672,
+          0.0020242638910369973
+        ],
+        "map_base": [
+          3.1927343922201383,
+          -0.01621507002454914,
+          0.027367195313204473
+        ],
+        "estimate_position_error": 0.08013463283760537,
+        "estimate_yaw_error": 0.025342931422167477,
+        "world_goal_error": 0.16529705154657984,
+        "estimated_goal_error": 0.108484280466269,
+        "world_minus_estimate": [
+          -0.03142727938945633,
+          -0.07371489327262758
+        ],
+        "estimate_minus_goal": [
+          -0.1072656077798615,
+          -0.01621507002454914
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 79.69200000000001,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 112.164,
+        "sample_stamp": 112.166,
+        "truth": [
+          0.09569819036829559,
+          0.011481916393859539,
+          -0.12740267506954236
+        ],
+        "map_base": [
+          0.08960663558267747,
+          0.019950588819290994,
+          -0.13240755887906716
+        ],
+        "estimate_position_error": 0.010431943843572499,
+        "estimate_yaw_error": -0.005004883809524797,
+        "world_goal_error": 0.09638453218147673,
+        "estimated_goal_error": 0.09180073602473554,
+        "world_minus_estimate": [
+          0.006091554785618125,
+          -0.008468672425431456
+        ],
+        "estimate_minus_goal": [
+          0.08960663558267747,
+          0.019950588819290994
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.007646877535689267,
+    "raw_amcl_yaw_max": 0.04688838305272558,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 2.2206195148221764e-15,
+    "minimum_sampled_circle_clearance": 0.2574116518810171,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "low_noise2",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3330,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.06502007855528723,
+    "tf_map_position_p95": 0.0434936646530761,
+    "aligned_odom_position_max": 0.022739816606822436,
+    "tf_map_yaw_max": 0.03538934269767424,
+    "raw_amcl_position_max": 0.06502013463020805,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.564,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 33.606,
+        "sample_stamp": 33.594,
+        "truth": [
+          0.09169023130215087,
+          2.514738328424159,
+          0.1421997181440727
+        ],
+        "map_base": [
+          0.08087774361877467,
+          2.521094710619034,
+          0.14142569057674817
+        ],
+        "estimate_position_error": 0.012542467241754602,
+        "estimate_yaw_error": -0.0007740275673245312,
+        "world_goal_error": 0.1252064341643373,
+        "estimated_goal_error": 0.1129922745375021,
+        "world_minus_estimate": [
+          0.010812487683376198,
+          -0.00635638219487511
+        ],
+        "estimate_minus_goal": [
+          0.08087774361877467,
+          -0.07890528938096608
+        ]
+      },
+      {
+        "label": "return",
+        "start": 33.606,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 59.480000000000004,
+        "sample_stamp": 59.468,
+        "truth": [
+          0.09277615275920532,
+          0.05412949939740809,
+          -0.14181821621329052
+        ],
+        "map_base": [
+          0.07258468919246548,
+          0.06334058903273335,
+          -0.14013304460309
+        ],
+        "estimate_position_error": 0.022193228094105167,
+        "estimate_yaw_error": 0.0016851716102005145,
+        "world_goal_error": 0.10741236998508787,
+        "estimated_goal_error": 0.0963357011921356,
+        "world_minus_estimate": [
+          0.020191463566739842,
+          -0.009211089635325256
+        ],
+        "estimate_minus_goal": [
+          0.07258468919246548,
+          0.06334058903273335
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 59.480000000000004,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 80.464,
+        "sample_stamp": 80.48,
+        "truth": [
+          3.2029027991836783,
+          -0.0387249537640366,
+          0.07756693462863308
+        ],
+        "map_base": [
+          3.1906376810034063,
+          -0.02473030360460048,
+          0.0811510171897925
+        ],
+        "estimate_position_error": 0.01860869036394135,
+        "estimate_yaw_error": 0.003584082561159413,
+        "world_goal_error": 0.10453462799662057,
+        "estimated_goal_error": 0.11212361362660589,
+        "world_minus_estimate": [
+          0.012265118180271983,
+          -0.013994650159436118
+        ],
+        "estimate_minus_goal": [
+          -0.10936231899659354,
+          -0.02473030360460048
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 80.464,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 112.736,
+        "sample_stamp": 112.746,
+        "truth": [
+          0.1004721852685431,
+          0.02986617954373803,
+          0.10666585995548514
+        ],
+        "map_base": [
+          0.10977411677874763,
+          -0.03078322386355552,
+          0.13590019449814222
+        ],
+        "estimate_position_error": 0.06135858589864312,
+        "estimate_yaw_error": 0.029234334542657083,
+        "world_goal_error": 0.10481721563357445,
+        "estimated_goal_error": 0.1140086118939613,
+        "world_minus_estimate": [
+          -0.00930193151020453,
+          0.06064940340729355
+        ],
+        "estimate_minus_goal": [
+          0.10977411677874763,
+          -0.03078322386355552
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.0077847482301094395,
+    "raw_amcl_yaw_max": 0.04359728289894571,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 1.790180836524724e-15,
+    "minimum_sampled_circle_clearance": 0.2651013485095216,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "low_noise",
+    "mode": "rotation",
+    "completed": true,
+    "paired_tf_count": 1565,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.007785623351109009,
+    "tf_map_position_p95": 0.007785623351109009,
+    "aligned_odom_position_max": 2.2837272399854475e-06,
+    "tf_map_yaw_max": 0.022971536133447767,
+    "raw_amcl_position_max": 0.0077856234602772375,
+    "phases": [
+      {
+        "label": "rotate_ccw",
+        "start": 6.418,
+        "end": 29.348000000000003,
+        "sample_stamp": 29.364,
+        "truth": [
+          -6.229479256461451e-07,
+          1.44514592464318e-07,
+          -0.001209745344103237
+        ],
+        "map_base": [
+          0.00021834765108017561,
+          -0.0021715198803445948,
+          -0.003386289428654814
+        ],
+        "estimate_position_error": 0.002182675964834522,
+        "estimate_yaw_error": -0.0021765440845515774,
+        "truth_yaw_travel": 6.281678494007653,
+        "odom_base_yaw_travel": 6.282131999772272,
+        "map_base_yaw_travel": 6.279499017751304
+      },
+      {
+        "label": "rotate_cw",
+        "start": 29.348000000000003,
+        "end": 52.28,
+        "sample_stamp": 52.28,
+        "truth": [
+          -1.2499277049440824e-06,
+          -4.329956033396769e-09,
+          -0.0006000305695634286
+        ],
+        "map_base": [
+          -0.005916166356226138,
+          0.005062573532056951,
+          -0.018187044560050873
+        ],
+        "estimate_position_error": 0.007785623351109009,
+        "estimate_yaw_error": -0.017587013990487448,
+        "truth_yaw_travel": -6.282575592405046,
+        "odom_base_yaw_travel": -6.283031999771801,
+        "map_base_yaw_travel": -6.297986062310982
+      }
+    ],
+    "aligned_odom_yaw_max": 0.00045803626594082117,
+    "raw_amcl_yaw_max": 0.025697887064718646,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 1.2266347333466993e-18,
+    "minimum_sampled_circle_clearance": 0.6499988115227869,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "low_noise",
+    "mode": "straight",
+    "completed": true,
+    "paired_tf_count": 694,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.00337203154733351,
+    "tf_map_position_p95": 0.002857513447158751,
+    "aligned_odom_position_max": 1.6639647621580268e-08,
+    "tf_map_yaw_max": 0.004810513347864972,
+    "raw_amcl_position_max": 0.004778090820208617,
+    "phases": [
+      {
+        "label": "forward",
+        "start": 6.822,
+        "end": 14.786000000000001,
+        "sample_stamp": 14.776,
+        "truth": [
+          0.7195199998517613,
+          7.410337438591807e-16,
+          2.70631499247899e-15
+        ],
+        "map_base": [
+          0.7180931961157766,
+          0.0005521550612158147,
+          0.000529959630864975
+        ],
+        "estimate_position_error": 0.0015299163743960982,
+        "estimate_yaw_error": 0.0005299596308622688
+      },
+      {
+        "label": "backward",
+        "start": 14.786000000000001,
+        "end": 22.778000000000002,
+        "sample_stamp": 22.766,
+        "truth": [
+          -0.00023999986005372666,
+          -1.442494946399925e-15,
+          3.3630771684878987e-15
+        ],
+        "map_base": [
+          -0.00030478025522135647,
+          0.002856779060600727,
+          -0.0035179220040612623
+        ],
+        "estimate_position_error": 0.002857513447158751,
+        "estimate_yaw_error": -0.003517922004064625
+      }
+    ],
+    "aligned_odom_yaw_max": 3.5095471023946596e-15,
+    "raw_amcl_yaw_max": 0.004810513347864925,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 3.3306718973174304e-16,
+    "minimum_sampled_circle_clearance": 0.65,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "prob1",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3349,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.32557039460747295,
+    "tf_map_position_p95": 0.2180194444823142,
+    "aligned_odom_position_max": 0.026306611637962073,
+    "tf_map_yaw_max": 0.12360675513152611,
+    "raw_amcl_position_max": 0.3255704126835289,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.53,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 33.302,
+        "sample_stamp": 33.296,
+        "truth": [
+          0.12306672240564467,
+          2.5398080633500206,
+          0.10163579570498384
+        ],
+        "map_base": [
+          0.018414113898305075,
+          2.4888676655377995,
+          0.14988762988180587
+        ],
+        "estimate_position_error": 0.11639197823156815,
+        "estimate_yaw_error": 0.04825183417682204,
+        "world_goal_error": 0.1369981291892088,
+        "estimated_goal_error": 0.11264757145042309,
+        "world_minus_estimate": [
+          0.1046526085073396,
+          0.05094039781222115
+        ],
+        "estimate_minus_goal": [
+          0.018414113898305075,
+          -0.11113233446220061
+        ]
+      },
+      {
+        "label": "return",
+        "start": 33.302,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 55,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 59.278000000000006,
+        "sample_stamp": 59.272,
+        "truth": [
+          -0.20945697388313694,
+          0.09469404941181021,
+          -0.23336197687231638
+        ],
+        "map_base": [
+          -0.09087900859747797,
+          0.04837347905787651,
+          -0.1435054100714517
+        ],
+        "estimate_position_error": 0.1273040811961685,
+        "estimate_yaw_error": 0.08985656680086467,
+        "world_goal_error": 0.22986775959731165,
+        "estimated_goal_error": 0.10295138503110723,
+        "world_minus_estimate": [
+          -0.11857796528565898,
+          0.0463205703539337
+        ],
+        "estimate_minus_goal": [
+          -0.09087900859747797,
+          0.04837347905787651
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 59.278000000000006,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 70,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 81.436,
+        "sample_stamp": 81.44,
+        "truth": [
+          3.1171220592471114,
+          -0.19820514594077696,
+          -0.07108137465513362
+        ],
+        "map_base": [
+          3.1874857709352717,
+          -0.020270526769422606,
+          -0.005921925987370055
+        ],
+        "estimate_position_error": 0.1913420513692415,
+        "estimate_yaw_error": 0.06515944866776358,
+        "world_goal_error": 0.26968429893381196,
+        "estimated_goal_error": 0.11432561391717946,
+        "world_minus_estimate": [
+          -0.07036371168816036,
+          -0.17793461917135434
+        ],
+        "estimate_minus_goal": [
+          -0.11251422906472808,
+          -0.020270526769422606
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 81.436,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 113.328,
+        "sample_stamp": 113.332,
+        "truth": [
+          0.027801050299256152,
+          -0.06089288584055992,
+          0.061339086926802365
+        ],
+        "map_base": [
+          0.04447585869015164,
+          -0.045390818528113365,
+          0.14297049074673057
+        ],
+        "estimate_position_error": 0.022767593764662582,
+        "estimate_yaw_error": 0.0816314038199282,
+        "world_goal_error": 0.0669390912974865,
+        "estimated_goal_error": 0.06354863029899588,
+        "world_minus_estimate": [
+          -0.016674808390895485,
+          -0.015502067312446556
+        ],
+        "estimate_minus_goal": [
+          0.04447585869015164,
+          -0.045390818528113365
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.007983581546185333,
+    "raw_amcl_yaw_max": 0.12361897538935576,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 2.6649169612753164e-15,
+    "minimum_sampled_circle_clearance": 0.08727368929330737,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "prob2",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3517,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.190535185517379,
+    "tf_map_position_p95": 0.1754886085233407,
+    "aligned_odom_position_max": 0.02111307902160754,
+    "tf_map_yaw_max": 0.10243647733648287,
+    "raw_amcl_position_max": 0.19053517449685717,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.95,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 34.166000000000004,
+        "sample_stamp": 34.154,
+        "truth": [
+          0.06770161595678208,
+          2.5192927755065333,
+          0.14574681530077166
+        ],
+        "map_base": [
+          0.07713087637199839,
+          2.5199890526607023,
+          0.1396721997067371
+        ],
+        "estimate_position_error": 0.009454932778892878,
+        "estimate_yaw_error": -0.006074615594034549,
+        "world_goal_error": 0.10534308182599585,
+        "estimated_goal_error": 0.1111347100776548,
+        "world_minus_estimate": [
+          -0.009429260415216315,
+          -0.0006962771541689783
+        ],
+        "estimate_minus_goal": [
+          0.07713087637199839,
+          -0.08001094733929781
+        ]
+      },
+      {
+        "label": "return",
+        "start": 34.166000000000004,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 66.02000000000001,
+        "sample_stamp": 66.012,
+        "truth": [
+          0.08751042406701671,
+          0.011173834454154569,
+          -0.11181089798783522
+        ],
+        "map_base": [
+          0.023609404730995015,
+          0.035099471409448295,
+          -0.14459700585941926
+        ],
+        "estimate_position_error": 0.06823324978263264,
+        "estimate_yaw_error": -0.032786107871584036,
+        "world_goal_error": 0.08822090963483628,
+        "estimated_goal_error": 0.04230102699668896,
+        "world_minus_estimate": [
+          0.0639010193360217,
+          -0.023925636955293726
+        ],
+        "estimate_minus_goal": [
+          0.023609404730995015,
+          0.035099471409448295
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 66.02000000000001,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 87.07600000000001,
+        "sample_stamp": 87.092,
+        "truth": [
+          3.242667783224528,
+          -0.040983401759090085,
+          0.09803151969724931
+        ],
+        "map_base": [
+          3.192456057509931,
+          -0.030030320082416836,
+          0.0928651204620128
+        ],
+        "estimate_position_error": 0.05139248386149266,
+        "estimate_yaw_error": -0.005166399235236512,
+        "world_goal_error": 0.07047426693578795,
+        "estimated_goal_error": 0.11165804803308912,
+        "world_minus_estimate": [
+          0.050211725714596867,
+          -0.010953081676673249
+        ],
+        "estimate_minus_goal": [
+          -0.10754394249006882,
+          -0.030030320082416836
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 87.07600000000001,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 119.08600000000001,
+        "sample_stamp": 119.086,
+        "truth": [
+          0.25666516934146305,
+          -0.06706227498452284,
+          0.21746369008384434
+        ],
+        "map_base": [
+          0.07476940224065035,
+          -0.02508823233106637,
+          0.13003879815157154
+        ],
+        "estimate_position_error": 0.18667589653157496,
+        "estimate_yaw_error": -0.08742489193227279,
+        "world_goal_error": 0.2652816576380313,
+        "estimated_goal_error": 0.07886623430164352,
+        "world_minus_estimate": [
+          0.1818957671008127,
+          -0.04197404265345647
+        ],
+        "estimate_minus_goal": [
+          0.07476940224065035,
+          -0.02508823233106637
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.007832902590196866,
+    "raw_amcl_yaw_max": 0.10862611443062287,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 3.1097394483713888e-15,
+    "minimum_sampled_circle_clearance": 0.2641415591264433,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "sigma05",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3405,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.20926636004240057,
+    "tf_map_position_p95": 0.16517707099315995,
+    "aligned_odom_position_max": 0.028024964447839112,
+    "tf_map_yaw_max": 0.08540356655834004,
+    "raw_amcl_position_max": 0.20926536834113915,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.668,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 33.79,
+        "sample_stamp": 33.784,
+        "truth": [
+          0.09830824059430888,
+          2.5073923488710497,
+          0.09416641385450893
+        ],
+        "map_base": [
+          0.02174000809358289,
+          2.497367477191353,
+          0.14151555918961592
+        ],
+        "estimate_position_error": 0.07722170860891135,
+        "estimate_yaw_error": 0.047349145335106986,
+        "world_goal_error": 0.13505808830414384,
+        "estimated_goal_error": 0.10490978357606344,
+        "world_minus_estimate": [
+          0.076568232500726,
+          0.010024871679696457
+        ],
+        "estimate_minus_goal": [
+          0.02174000809358289,
+          -0.10263252280864688
+        ]
+      },
+      {
+        "label": "return",
+        "start": 33.79,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 55,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 60.54600000000001,
+        "sample_stamp": 60.542,
+        "truth": [
+          -0.10347904692747216,
+          0.07562182516596828,
+          -0.1604972972268228
+        ],
+        "map_base": [
+          -0.091691689163483,
+          0.05042100440044211,
+          -0.13661848641261187
+        ],
+        "estimate_position_error": 0.027821271903211955,
+        "estimate_yaw_error": 0.02387881081421092,
+        "world_goal_error": 0.1281661952093853,
+        "estimated_goal_error": 0.1046405444672484,
+        "world_minus_estimate": [
+          -0.011787357763989162,
+          0.025200820765526176
+        ],
+        "estimate_minus_goal": [
+          -0.091691689163483,
+          0.05042100440044211
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 60.54600000000001,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 70,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 83.03,
+        "sample_stamp": 83.016,
+        "truth": [
+          3.1436896949275464,
+          -0.18940833036814378,
+          0.08904535988454312
+        ],
+        "map_base": [
+          3.2015043877029,
+          -0.027085072726039702,
+          0.14485509706357041
+        ],
+        "estimate_position_error": 0.17231186457192502,
+        "estimate_yaw_error": 0.05580973717902729,
+        "world_goal_error": 0.2455777414276208,
+        "estimated_goal_error": 0.10215178317756121,
+        "world_minus_estimate": [
+          -0.05781469277535356,
+          -0.1623232576421041
+        ],
+        "estimate_minus_goal": [
+          -0.09849561229709991,
+          -0.027085072726039702
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 83.03,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 115.328,
+        "sample_stamp": 115.316,
+        "truth": [
+          0.07039846289803521,
+          0.002844755284267745,
+          -0.15470536125104076
+        ],
+        "map_base": [
+          0.07761550514529361,
+          -0.0016075220943860824,
+          -0.1422503148917582
+        ],
+        "estimate_position_error": 0.008479886358624459,
+        "estimate_yaw_error": 0.012455046359282544,
+        "world_goal_error": 0.07045591679222839,
+        "estimated_goal_error": 0.07763215033890945,
+        "world_minus_estimate": [
+          -0.007217042247258401,
+          0.004452277378653827
+        ],
+        "estimate_minus_goal": [
+          0.07761550514529361,
+          -0.0016075220943860824
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.01567653078566253,
+    "raw_amcl_yaw_max": 0.08537549478305462,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 1.7979101253009106e-15,
+    "minimum_sampled_circle_clearance": 0.151932303901688,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "track",
+    "mode": "loop",
+    "completed": true,
+    "paired_tf_count": 3365,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.17754321238987866,
+    "tf_map_position_p95": 0.1595875964463052,
+    "aligned_odom_position_max": 0.023111587791159093,
+    "tf_map_yaw_max": 0.04110377253516954,
+    "raw_amcl_position_max": 0.17523599568906606,
+    "phases": [
+      {
+        "label": "around_box",
+        "start": 6.574000000000001,
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 34.452000000000005,
+        "sample_stamp": 34.44,
+        "truth": [
+          0.08979763736343348,
+          2.5496755240926015,
+          0.13028244598521696
+        ],
+        "map_base": [
+          0.06958218008308825,
+          2.5197562822027333,
+          0.14007129710736602
+        ],
+        "estimate_position_error": 0.0361085273629084,
+        "estimate_yaw_error": 0.009788851122149056,
+        "world_goal_error": 0.10293769256889844,
+        "estimated_goal_error": 0.10621079997365011,
+        "world_minus_estimate": [
+          0.020215457280345225,
+          0.029919241889868164
+        ],
+        "estimate_minus_goal": [
+          0.06958218008308825,
+          -0.0802437177972668
+        ]
+      },
+      {
+        "label": "return",
+        "start": 34.452000000000005,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 60.71,
+        "sample_stamp": 60.722,
+        "truth": [
+          0.19016744428846236,
+          0.13018826420462024,
+          -0.122956733827242
+        ],
+        "map_base": [
+          0.0479111477749351,
+          0.06475288712919244,
+          -0.14584371214929712
+        ],
+        "estimate_position_error": 0.15658429828928572,
+        "estimate_yaw_error": -0.02288697832205512,
+        "world_goal_error": 0.2304617994458462,
+        "estimated_goal_error": 0.08055069504776234,
+        "world_minus_estimate": [
+          0.14225629651352725,
+          0.06543537707542779
+        ],
+        "estimate_minus_goal": [
+          0.0479111477749351,
+          0.06475288712919244
+        ]
+      },
+      {
+        "label": "wide",
+        "start": 60.71,
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 81.522,
+        "sample_stamp": 81.53,
+        "truth": [
+          3.2941078344295245,
+          0.017720280873632303,
+          -0.0126615087682984
+        ],
+        "map_base": [
+          3.1880510730825655,
+          -0.015207540823126448,
+          -0.008985606008724775
+        ],
+        "estimate_position_error": 0.1110507904929062,
+        "estimate_yaw_error": 0.003675902759573626,
+        "world_goal_error": 0.018674205989822265,
+        "estimated_goal_error": 0.1129771283749596,
+        "world_minus_estimate": [
+          0.10605676134695896,
+          0.03292782169675875
+        ],
+        "estimate_minus_goal": [
+          -0.1119489269174343,
+          -0.015207540823126448
+        ]
+      },
+      {
+        "label": "return_again",
+        "start": 81.522,
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded",
+        "end": 113.86200000000001,
+        "sample_stamp": 113.864,
+        "truth": [
+          0.20075502236113818,
+          -0.0029173863262874455,
+          -0.11151872017856503
+        ],
+        "map_base": [
+          0.09128271383559071,
+          -0.005702987531659933,
+          -0.1307153373507683
+        ],
+        "estimate_position_error": 0.10950774359828636,
+        "estimate_yaw_error": -0.019196617172203265,
+        "world_goal_error": 0.20077621907536236,
+        "estimated_goal_error": 0.09146069052864521,
+        "world_minus_estimate": [
+          0.10947230852554747,
+          0.002785601205372487
+        ],
+        "estimate_minus_goal": [
+          0.09128271383559071,
+          -0.005702987531659933
+        ]
+      }
+    ],
+    "aligned_odom_yaw_max": 0.008795552728146916,
+    "raw_amcl_yaw_max": 0.04107848160029142,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 2.2205436253018787e-15,
+    "minimum_sampled_circle_clearance": 0.26199482304819977,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "track",
+    "mode": "rotation",
+    "completed": true,
+    "paired_tf_count": 1564,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.02513037975746468,
+    "tf_map_position_p95": 0.024415414743167687,
+    "aligned_odom_position_max": 2.2887807682455825e-06,
+    "tf_map_yaw_max": 0.0725924829459309,
+    "raw_amcl_position_max": 0.025130377357398228,
+    "phases": [
+      {
+        "label": "rotate_ccw",
+        "start": 6.404000000000001,
+        "end": 29.336000000000002,
+        "sample_stamp": 29.344,
+        "truth": [
+          -6.254866888100435e-07,
+          1.4451834200568078e-07,
+          -0.000461222685877683
+        ],
+        "map_base": [
+          0.0006534581768512649,
+          -0.007095036507347783,
+          -0.00845528370124909
+        ],
+        "estimate_position_error": 0.0071252662565140954,
+        "estimate_yaw_error": -0.007994061015371407,
+        "truth_yaw_travel": 6.282349763767588,
+        "odom_base_yaw_travel": 6.282803999772323,
+        "map_base_yaw_travel": 6.274352023479006
+      },
+      {
+        "label": "rotate_cw",
+        "start": 29.336000000000002,
+        "end": 52.204,
+        "sample_stamp": 52.192,
+        "truth": [
+          -1.2490126396233475e-06,
+          -1.8037709644345415e-09,
+          0.0005999303087067795
+        ],
+        "map_base": [
+          -0.020025493852774072,
+          0.013969325154362663,
+          -0.054928534999073596
+        ],
+        "estimate_position_error": 0.024415414743167684,
+        "estimate_yaw_error": -0.05552846530778038,
+        "truth_yaw_travel": -6.282124154185002,
+        "odom_base_yaw_travel": -6.282581999771625,
+        "map_base_yaw_travel": -6.329658558477412
+      }
+    ],
+    "aligned_odom_yaw_max": 0.00045806062072127027,
+    "raw_amcl_yaw_max": 0.07136835135823816,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 3.878959614448864e-18,
+    "minimum_sampled_circle_clearance": 0.64999880897307,
+    "sampled_circle_overlap_count": 0
+  },
+  {
+    "tag": "track",
+    "mode": "straight",
+    "completed": true,
+    "paired_tf_count": 697,
+    "tf_failures": 15,
+    "tf_map_position_max": 0.011322423022303303,
+    "tf_map_position_p95": 0.009136065892397204,
+    "aligned_odom_position_max": 1.6639652534318032e-08,
+    "tf_map_yaw_max": 0.01740980228738777,
+    "raw_amcl_position_max": 0.011685131503022202,
+    "phases": [
+      {
+        "label": "forward",
+        "start": 7.074000000000001,
+        "end": 15.072000000000001,
+        "sample_stamp": 15.084,
+        "truth": [
+          0.7199700006838409,
+          8.445860102016728e-16,
+          3.16530909741722e-15
+        ],
+        "map_base": [
+          0.7153292871580486,
+          0.0017893947155600532,
+          0.0017192420164835595
+        ],
+        "estimate_position_error": 0.004973746623677465,
+        "estimate_yaw_error": 0.0017192420164803943
+      },
+      {
+        "label": "backward",
+        "start": 15.072000000000001,
+        "end": 23.074,
+        "sample_stamp": 23.074,
+        "truth": [
+          1.39945697491569e-10,
+          -5.90184218263952e-15,
+          2.0722802868218273e-14
+        ],
+        "map_base": [
+          -0.008756281668621201,
+          -0.002606765980907125,
+          0.017409802287408488
+        ],
+        "estimate_position_error": 0.009136065892397204,
+        "estimate_yaw_error": 0.01740980228738777
+      }
+    ],
+    "aligned_odom_yaw_max": 2.165284921245251e-14,
+    "raw_amcl_yaw_max": 0.017409802287387637,
+    "missing_tf_samples_during_phases": 0,
+    "tf_chain_composition_max_position_residual": 3.3306697797361844e-16,
+    "minimum_sampled_circle_clearance": 0.65,
+    "sampled_circle_overlap_count": 0
+  }
+]

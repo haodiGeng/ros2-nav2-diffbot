@@ -1,0 +1,12 @@
+{
+  "boot_id": "1c97b420-ffbf-4607-88f2-fa4a403b9cb0",
+  "boot_start_reported": "2026-11-24 09:47:53",
+  "sequence_passed": true,
+  "sequence_length": 5,
+  "simulation_restarted_between_goals": false,
+  "localization_reset_between_goals": false,
+  "minimum_sampled_circumscribed_circle_clearance": 0.2052943582081136,
+  "first_sequence_reverse_failure_preserved": true,
+  "remaining_navigation_processes": [],
+  "overall_M7_acceptance_complete": false
+}

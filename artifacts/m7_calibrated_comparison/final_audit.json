@@ -1,0 +1,12 @@
+{
+  "scope": "Current calibrated static analytical scene only",
+  "continuous_regression_rounds": 2,
+  "comparison_goals_succeeded": 16,
+  "desktop_goals_succeeded": 2,
+  "all_navigation_recoveries": 0,
+  "desktop_trial_completed": true,
+  "desktop_post_goal_displacement_m": 1.8011149417423487E-09,
+  "desktop_left_open_idle": true,
+  "summary": "acceptance_summary.json",
+  "documentation": "docs/ROS2-Nav2-M7校准配置回归与规划器对照.md"
+}

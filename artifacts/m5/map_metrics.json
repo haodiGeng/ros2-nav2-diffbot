@@ -1,0 +1,24 @@
+{
+  "width": 119,
+  "height": 118,
+  "resolution": 0.05,
+  "origin": [
+    -2.97,
+    -2.96,
+    0
+  ],
+  "occupied_cells": 563,
+  "free_cells": 13337,
+  "unknown_cells": 142,
+  "wall_peak_x": [
+    -2.895,
+    2.9550000000000005
+  ],
+  "wall_peak_y": [
+    -2.885,
+    2.915
+  ],
+  "wall_spacing_x": 5.8500000000000005,
+  "wall_spacing_y": 5.8,
+  "expected_inner_wall_spacing": 5.85
+}

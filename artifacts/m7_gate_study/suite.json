@@ -1,0 +1,27 @@
+[
+  {
+    "case": "gap080_gate_0",
+    "passed": true,
+    "status": 6
+  },
+  {
+    "case": "gap080_gate_1",
+    "passed": true,
+    "status": 6
+  },
+  {
+    "case": "gap100_gate_0",
+    "passed": true,
+    "status": 6
+  },
+  {
+    "case": "gap100_gate_1",
+    "passed": true,
+    "status": 6
+  },
+  {
+    "case": "gap120_gate_0",
+    "passed": false,
+    "status": 6
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "goal": [
+      2.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 22.823566530000335,
+    "recoveries": 0,
+    "truth_samples": 671,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3493841823030188,
+    "physical_path_length": 2.9526892650273777,
+    "endpoint_world_xy": [
+      2.0669524329478683,
+      -0.0794569803834224
+    ],
+    "map_goal_to_world_endpoint_distance": 0.1039039941931511,
+    "max_amcl_world_position_difference": 0.018679927750528118,
+    "paired_localization_samples": 95,
+    "last_amcl_goal_distance": 0.09721603823820764,
+    "last_amcl_goal_yaw_error": 0.17983942367425704
+  },
+  {
+    "goal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 23.962515361999976,
+    "recoveries": 0,
+    "truth_samples": 701,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3513535323416501,
+    "physical_path_length": 2.837683749755515,
+    "endpoint_world_xy": [
+      0.08931282881068747,
+      -0.09318449586067576
+    ],
+    "map_goal_to_world_endpoint_distance": 0.12907413241612536,
+    "max_amcl_world_position_difference": 0.05724320944515098,
+    "paired_localization_samples": 103,
+    "last_amcl_goal_distance": 0.08013876264383984,
+    "last_amcl_goal_yaw_error": 0.15446867647692097
+  },
+  {
+    "goal": [
+      0.0,
+      1.6,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 16.022037730000193,
+    "recoveries": 0,
+    "truth_samples": 453,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.6252494693800361,
+    "physical_path_length": 1.5651520938192478,
+    "endpoint_world_xy": [
+      -0.07707137877207518,
+      1.4352521396033526
+    ],
+    "map_goal_to_world_endpoint_distance": 0.18188417999128434,
+    "max_amcl_world_position_difference": 0.12932992668250562,
+    "paired_localization_samples": 66,
+    "last_amcl_goal_distance": 0.10792665002092668,
+    "last_amcl_goal_yaw_error": 0.1470396351152076
+  }
+]

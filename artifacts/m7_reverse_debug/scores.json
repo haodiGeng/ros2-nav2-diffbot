@@ -1,0 +1,5903 @@
+[
+  {
+    "stamp": 4.276,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 13.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 8.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4736842105263156,
+      "total": 16.799999237060547,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 9.0
+      }
+    }
+  },
+  {
+    "stamp": 4.718,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 13.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 16.799999237060547,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 9.0
+      }
+    }
+  },
+  {
+    "stamp": 5.118,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 13.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 16.799999237060547,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 9.0
+      }
+    }
+  },
+  {
+    "stamp": 5.568,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 12.899999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 17.799999237060547,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 9.0
+      }
+    }
+  },
+  {
+    "stamp": 5.968,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 12.899999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.03157894736842115,
+      "total": 18.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.800000071525574,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 9.0
+      }
+    }
+  },
+  {
+    "stamp": 6.414,
+    "best": {
+      "vx": 0.0,
+      "w": -0.22105263157894747,
+      "total": 13.600000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 8.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.09473684210526326,
+      "total": 18.700000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 5.000000074505806,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 9.5
+      }
+    }
+  },
+  {
+    "stamp": 6.816,
+    "best": {
+      "vx": 0.0,
+      "w": -0.15789473684210537,
+      "total": 13.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.09473684210526326,
+      "total": 18.700000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 5.000000074505806,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 9.5
+      }
+    }
+  },
+  {
+    "stamp": 7.2620000000000005,
+    "best": {
+      "vx": 0.0,
+      "w": -0.09473684210526326,
+      "total": 13.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.03157894736842115,
+      "total": 18.700000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 5.000000074505806,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 9.5
+      }
+    }
+  },
+  {
+    "stamp": 7.712,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.5368421052631577,
+      "total": 10.200000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 1.600000023841858,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 5.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.5368421052631577,
+      "total": 10.200000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 1.600000023841858,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 5.0
+      }
+    }
+  },
+  {
+    "stamp": 8.158,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.5999999999999998,
+      "total": 8.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.5999999999999998,
+      "total": 8.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 8.606,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.5999999999999998,
+      "total": 6.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.5999999999999998,
+      "total": 6.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 9.006,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.4105263157894735,
+      "total": 7.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.4105263157894735,
+      "total": 7.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 9.454,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.4105263157894735,
+      "total": 6.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.4105263157894735,
+      "total": 6.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 9.904,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 10.352,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 10.752,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 11.202,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 11.602,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 12.002,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 12.45,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 12.85,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 13.298,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 13.698,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.28421052631578936,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.28421052631578936,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 14.148,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.22105263157894728,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.22105263157894728,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 14.594,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 15.042,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 15.486,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 15.934,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 16.382,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 16.832,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 17.282,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 17.728,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 18.176,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 18.624,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 19.072,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 19.514,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 5.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 5.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 19.95,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 20.392,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 20.834,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.15789473684210517,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 21.266,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 21.71,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 5.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 5.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 22.158,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.22105263157894728,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 22.56,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 22.96,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 23.41,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 23.86,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 24.31,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 24.752,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 2.799999952316284,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 2.799999952316284,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.0
+      }
+    }
+  },
+  {
+    "stamp": 25.152,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.031578947368420957,
+      "total": 2.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.031578947368420957,
+      "total": 2.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    }
+  },
+  {
+    "stamp": 25.6,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.4736842105263158,
+      "total": 1.2000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.4736842105263158,
+      "total": 1.2000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 26.05,
+    "best": {
+      "vx": 0.12857142857142856,
+      "w": -0.22105263157894747,
+      "total": 1.2000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.12857142857142856,
+      "w": -0.22105263157894747,
+      "total": 1.2000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 26.494,
+    "best": {
+      "vx": 0.10285714285714286,
+      "w": -0.22105263157894747,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.10285714285714286,
+      "w": -0.22105263157894747,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 26.932,
+    "best": {
+      "vx": 0.06428571428571428,
+      "w": -0.6,
+      "total": 41.495513916015625,
+      "critics": {
+        "RotateToGoal": 39.595516204833984,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 27.334,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 33.84838104248047,
+      "critics": {
+        "RotateToGoal": 31.54837989807129,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 27.778,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 25.779502868652344,
+      "critics": {
+        "RotateToGoal": 23.07950210571289,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 28.22,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 17.423118591308594,
+      "critics": {
+        "RotateToGoal": 14.523118019104004,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 28.668,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 9.09246826171875,
+      "critics": {
+        "RotateToGoal": 5.992468357086182,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 29.068,
+    "best": {
+      "vx": 0.0,
+      "w": -0.5368421052631579,
+      "total": 4.856410980224609,
+      "critics": {
+        "RotateToGoal": 0.9564110636711121,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 29.51,
+    "best": {
+      "vx": 0.0,
+      "w": -0.41052631578947374,
+      "total": 3.1666648387908936,
+      "critics": {
+        "RotateToGoal": 0.16666476428508759,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 29.958,
+    "best": {
+      "vx": 0.0,
+      "w": -0.2842105263157896,
+      "total": 3.974081516265869,
+      "critics": {
+        "RotateToGoal": 0.3740815222263336,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 30.406,
+    "best": {
+      "vx": 0.0,
+      "w": -0.22105263157894747,
+      "total": 4.53105354309082,
+      "critics": {
+        "RotateToGoal": 0.4310533106327057,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 30.854,
+    "best": {
+      "vx": 0.0,
+      "w": -0.15789473684210537,
+      "total": 4.43923807144165,
+      "critics": {
+        "RotateToGoal": 0.3392379581928253,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 31.3,
+    "best": {
+      "vx": 0.0,
+      "w": -0.09473684210526326,
+      "total": 4.622318267822266,
+      "critics": {
+        "RotateToGoal": 0.5223181843757629,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 33.092,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 10.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.8000000417232513,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 7.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.6,
+      "total": 11.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 2.4000000953674316,
+        "GoalDist": 5.0
+      }
+    }
+  },
+  {
+    "stamp": 33.538,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.6,
+      "total": 9.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.6,
+      "total": 9.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 33.94,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.6,
+      "total": 9.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.6,
+      "total": 9.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 34.388,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.6,
+      "total": 8.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.6,
+      "total": 8.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 34.838,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.4736842105263158,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.4736842105263158,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 35.288,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.41052631578947374,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.41052631578947374,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 35.688,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 36.138,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 36.584,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 5.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 37.032,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 37.432,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 5.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 5.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 37.834,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 5.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 38.284,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 5.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 38.726,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 39.176,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 39.626,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 40.026,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 40.474,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.22105263157894747,
+      "total": 4.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.22105263157894747,
+      "total": 4.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 40.92,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 41.368,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.15789473684210537,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.15789473684210537,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 41.814,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 42.262,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 42.71,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 43.158,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 6.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 43.606,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 44.056,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 6.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 6.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 44.456,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 44.902,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 45.352,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 45.802,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.2842105263157896,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 46.252,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 46.698,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.599999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 47.148,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.22105263157894747,
+      "total": 6.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 47.594,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 6.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 6.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 48.044,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.15789473684210537,
+      "total": 6.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.0000000298023224,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 4.0
+      }
+    }
+  },
+  {
+    "stamp": 48.49,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 6.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 4.5
+      }
+    }
+  },
+  {
+    "stamp": 48.94,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 49.34,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 3.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 3.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.5
+      }
+    }
+  },
+  {
+    "stamp": 49.768,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 2.0999999046325684,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 2.0999999046325684,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    }
+  },
+  {
+    "stamp": 50.21,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 1.2999999523162842,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.15789473684210517,
+      "total": 1.2999999523162842,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    }
+  },
+  {
+    "stamp": 50.658,
+    "best": {
+      "vx": 0.12857142857142856,
+      "w": 0.0,
+      "total": 0.800000011920929,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.12857142857142856,
+      "w": 0.0,
+      "total": 0.800000011920929,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 51.108,
+    "best": {
+      "vx": 0.09,
+      "w": 0.15789473684210517,
+      "total": 0.800000011920929,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.15789473684210517,
+      "total": 0.800000011920929,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 51.508,
+    "best": {
+      "vx": 0.06428571428571428,
+      "w": 0.15789473684210517,
+      "total": 0.800000011920929,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.15789473684210537,
+      "total": 1.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.20000000298023224,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 51.958,
+    "best": {
+      "vx": 0.09,
+      "w": 0.28421052631578936,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.28421052631578936,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 52.406,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 48.60376739501953,
+      "critics": {
+        "RotateToGoal": 46.303768157958984,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 52.808,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 42.31440353393555,
+      "critics": {
+        "RotateToGoal": 39.414405822753906,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 53.246,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 33.53069305419922,
+      "critics": {
+        "RotateToGoal": 31.23069190979004,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.800000011920929,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 53.66,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 26.101564407348633,
+      "critics": {
+        "RotateToGoal": 23.40156364440918,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 54.082,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 17.909704208374023,
+      "critics": {
+        "RotateToGoal": 14.60970401763916,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.8000000268220901,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 54.53,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 8.717470169067383,
+      "critics": {
+        "RotateToGoal": 6.117470741271973,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 54.982,
+    "best": {
+      "vx": 0.0,
+      "w": 0.5999999999999998,
+      "total": 4.491499900817871,
+      "critics": {
+        "RotateToGoal": 1.491499900817871,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 55.43,
+    "best": {
+      "vx": 0.0,
+      "w": 0.4105263157894735,
+      "total": 2.2114882469177246,
+      "critics": {
+        "RotateToGoal": 0.011488189920783043,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 55.882,
+    "best": {
+      "vx": 0.0,
+      "w": 0.28421052631578936,
+      "total": 2.298271894454956,
+      "critics": {
+        "RotateToGoal": 0.39827191829681396,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 56.32,
+    "best": {
+      "vx": 0.0,
+      "w": 0.22105263157894728,
+      "total": 1.9320788383483887,
+      "critics": {
+        "RotateToGoal": 0.23207883536815643,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 56.768,
+    "best": {
+      "vx": 0.0,
+      "w": 0.15789473684210517,
+      "total": 2.0344462394714355,
+      "critics": {
+        "RotateToGoal": 0.13444629311561584,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 57.218,
+    "best": {
+      "vx": 0.0,
+      "w": 0.09473684210526306,
+      "total": 2.6689765453338623,
+      "critics": {
+        "RotateToGoal": 0.968976616859436,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": null
+  },
+  {
+    "stamp": 59.002,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 5.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 5.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 59.452,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.22105263157894747,
+      "total": 5.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 59.9,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 60.348,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 60.798,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 61.242,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 61.688,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 62.138,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 62.586,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 63.036,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 63.438,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 63.882,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 64.322,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 64.772,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.031578947368420957,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 65.212,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 65.646,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 66.094,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 66.542,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.34736842105263144,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.34736842105263144,
+      "total": 5.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 66.99,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 67.392,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.031578947368420957,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 67.836,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 68.274,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 68.72,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 69.122,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 69.522,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 69.964,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 70.412,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 70.862,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 71.31,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 71.752,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.03157894736842115,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 72.2,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.03157894736842115,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 72.648,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 5.099999904632568,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.600000023841858,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 73.094,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 5.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.0,
+      "total": 5.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 73.544,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.15789473684210517,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 73.944,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.09473684210526306,
+      "total": 4.900000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 74.392,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.0,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 74.792,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": 0.09473684210526306,
+      "total": 4.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.5
+      }
+    }
+  },
+  {
+    "stamp": 75.236,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": 0.09473684210526306,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 75.684,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": 0.0,
+      "total": 4.400000095367432,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.4000000208616257,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 76.13,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 4.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.2000000178813934,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 3.0
+      }
+    }
+  },
+  {
+    "stamp": 76.53,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 3.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.0
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 3.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 1.0000000149011612,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 2.0
+      }
+    }
+  },
+  {
+    "stamp": 76.93,
+    "best": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 2.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    },
+    "moving": {
+      "vx": 0.17999999999999994,
+      "w": -0.09473684210526326,
+      "total": 2.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.6000000089406967,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.0,
+        "GoalDist": 1.0
+      }
+    }
+  },
+  {
+    "stamp": 77.376,
+    "best": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 1.7000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    },
+    "moving": {
+      "vx": 0.1671428571428571,
+      "w": -0.09473684210526326,
+      "total": 1.7000000476837158,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 0.5
+      }
+    }
+  },
+  {
+    "stamp": 77.826,
+    "best": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 1.399999976158142,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.20000000298023224,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.15428571428571425,
+      "w": -0.03157894736842115,
+      "total": 1.399999976158142,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.20000000298023224,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 78.226,
+    "best": {
+      "vx": 0.11571428571428571,
+      "w": 0.22105263157894728,
+      "total": 1.600000023841858,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.11571428571428571,
+      "w": 0.22105263157894728,
+      "total": 1.600000023841858,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.4000000059604645,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 78.674,
+    "best": {
+      "vx": 0.07714285714285714,
+      "w": -0.03157894736842115,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.03157894736842115,
+      "total": 0.0,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 0.0,
+        "PathAlign": 0.0,
+        "PathDist": 0.0,
+        "GoalDist": 0.0
+      }
+    }
+  },
+  {
+    "stamp": 80.59,
+    "best": {
+      "vx": 0.0,
+      "w": -0.5368421052631579,
+      "total": 11.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.22105263157894747,
+      "total": 14.90000057220459,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.5
+      }
+    }
+  },
+  {
+    "stamp": 81.038,
+    "best": {
+      "vx": 0.0,
+      "w": -0.41052631578947374,
+      "total": 11.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.15789473684210537,
+      "total": 14.90000057220459,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.5
+      }
+    }
+  },
+  {
+    "stamp": 81.438,
+    "best": {
+      "vx": 0.0,
+      "w": -0.2842105263157896,
+      "total": 11.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.15789473684210517,
+      "total": 14.90000057220459,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.5
+      }
+    }
+  },
+  {
+    "stamp": 81.888,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.09473684210526306,
+      "total": 13.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 1.600000023841858,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 82.334,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.09473684210526306,
+      "total": 13.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 1.600000023841858,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 82.782,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.09473684210526306,
+      "total": 14.199999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 83.182,
+    "best": {
+      "vx": 0.012857142857142857,
+      "w": 0.0,
+      "total": 10.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 15.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 83.632,
+    "best": {
+      "vx": 0.012857142857142857,
+      "w": 0.0,
+      "total": 10.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 15.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 84.074,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 15.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 84.52,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 15.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 84.966,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4736842105263156,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 85.366,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 85.768,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 86.216,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 86.616,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 87.018,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4736842105263156,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 87.466,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 87.868,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4105263157894735,
+      "total": 14.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.400000065565109,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 88.318,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 88.764,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 89.212,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 89.662,
+    "best": {
+      "vx": 0.012857142857142857,
+      "w": 0.0,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 90.112,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 90.512,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.700000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 90.96,
+    "best": {
+      "vx": 0.0,
+      "w": -0.03157894736842115,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 91.36,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.700000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 91.76,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 10.600000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 92.21,
+    "best": {
+      "vx": 0.0,
+      "w": 0.031578947368420957,
+      "total": 10.399999618530273,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 0.800000011920929,
+        "PathDist": 0.0,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.41052631578947374,
+      "total": 14.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.000000059604645,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 92.658,
+    "best": {
+      "vx": 0.0,
+      "w": 0.09473684210526306,
+      "total": 11.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.8000000566244125,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.4736842105263158,
+      "total": 15.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 93.058,
+    "best": {
+      "vx": 0.0,
+      "w": 0.09473684210526306,
+      "total": 11.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.8000000566244125,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 15.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.8000000715255737,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 93.504,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 11.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 14.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 93.956,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 11.699999809265137,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.41052631578947374,
+      "total": 15.200000762939453,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.8000000417232513,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 94.406,
+    "best": {
+      "vx": 0.0,
+      "w": -0.6,
+      "total": 11.300000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": 0.4736842105263156,
+      "total": 14.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 4.200000062584877,
+        "PathAlign": 2.400000035762787,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 7.0
+      }
+    }
+  },
+  {
+    "stamp": 94.854,
+    "best": {
+      "vx": 0.025714285714285714,
+      "w": -0.6,
+      "total": 11.100000381469727,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.400000050663948,
+        "PathAlign": 1.2000000178813934,
+        "PathDist": 0.0,
+        "GoalDist": 6.5
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 13.5,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.8000000566244125,
+        "PathAlign": 2.0000000298023224,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  },
+  {
+    "stamp": 95.254,
+    "best": {
+      "vx": 0.012857142857142857,
+      "w": -0.6,
+      "total": 9.800000190734863,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 2.8000000417232513,
+        "PathAlign": 0.4000000059604645,
+        "PathDist": 0.6000000238418579,
+        "GoalDist": 6.0
+      }
+    },
+    "moving": {
+      "vx": 0.09,
+      "w": -0.6,
+      "total": 12.90000057220459,
+      "critics": {
+        "RotateToGoal": 0.0,
+        "Oscillation": 0.0,
+        "BaseObstacle": 0.0,
+        "GoalAlign": 3.6000000536441803,
+        "PathAlign": 1.600000023841858,
+        "PathDist": 1.2000000476837158,
+        "GoalDist": 6.5
+      }
+    }
+  }
+]

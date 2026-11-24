@@ -1,0 +1,14 @@
+{
+  "tf_publisher_nodes": {
+    "ros_gz_bridge": 1,
+    "robot_state_publisher": 1,
+    "amcl": 1
+  },
+  "slam_absent": true,
+  "controller": "dwb_core::DWBLocalPlanner",
+  "required_movement_radius": 0.1,
+  "movement_time_allowance": 15.0,
+  "config_sha256": "b446cb8ff884dbfc9773921f1d0b863ac638b6b497d8dd7006833e846d3f1ca0",
+  "map_sha256": "0e02584868e87f542bcd0aca8be7522e5820f34fe5934be506a00f4fbbb59e67",
+  "patched_tf2_loaded": true
+}

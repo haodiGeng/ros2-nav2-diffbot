@@ -1,0 +1,71 @@
+[
+  {
+    "goal": [
+      2.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 22.287625745000014,
+    "recoveries": 0,
+    "truth_samples": 654,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3459660450748774,
+    "physical_path_length": 2.894322060204803,
+    "endpoint_world_xy": [
+      2.06353432969368,
+      -0.13037203044955026
+    ],
+    "map_goal_to_world_endpoint_distance": 0.1450292293751977,
+    "max_amcl_world_position_difference": 0.05720678449674012,
+    "paired_localization_samples": 93,
+    "last_amcl_goal_distance": 0.09704229823579534,
+    "last_amcl_goal_yaw_error": 0.1737306385225644
+  },
+  {
+    "goal": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 25.52116949099991,
+    "recoveries": 0,
+    "truth_samples": 714,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.3480938522323891,
+    "physical_path_length": 2.908518320128886,
+    "endpoint_world_xy": [
+      0.07770391239331241,
+      0.00572556883331153
+    ],
+    "map_goal_to_world_endpoint_distance": 0.07791456949565055,
+    "max_amcl_world_position_difference": 0.14463442914210606,
+    "paired_localization_samples": 106,
+    "last_amcl_goal_distance": 0.1160976506592546,
+    "last_amcl_goal_yaw_error": 0.16241078880674498
+  },
+  {
+    "goal": [
+      0.0,
+      1.6,
+      0.0
+    ],
+    "status": 4,
+    "wall_seconds": 17.06255323000005,
+    "recoveries": 0,
+    "truth_samples": 454,
+    "sampled_model_overlaps": 0,
+    "minimum_sampled_box_clearance": 0.5255018905583925,
+    "physical_path_length": 1.66131442094475,
+    "endpoint_world_xy": [
+      0.2678287945986704,
+      1.5904694865590459
+    ],
+    "map_goal_to_world_endpoint_distance": 0.26799830951449116,
+    "max_amcl_world_position_difference": 0.2879255725197417,
+    "paired_localization_samples": 65,
+    "last_amcl_goal_distance": 0.1077553227906433,
+    "last_amcl_goal_yaw_error": 0.15264487803012186
+  }
+]

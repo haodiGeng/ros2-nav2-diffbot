@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<robot name="my_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <xacro:arg name="base_length" default="0.45"/>
+  <xacro:arg name="simulation" default="false"/>
+  <xacro:arg name="base_width" default="0.35"/>
+  <xacro:arg name="wheel_radius" default="0.075"/>
+  <xacro:arg name="wheel_separation" default="0.40"/>
+  <xacro:arg name="drive_track_scale" default="1.0"/>
+  <xacro:property name="base_len" value="$(arg base_length)"/>
+  <xacro:property name="base_width" value="$(arg base_width)"/>
+  <xacro:property name="base_height" value="0.12"/>
+  <xacro:property name="wheel_radius" value="$(arg wheel_radius)"/>
+  <xacro:property name="wheel_sep" value="$(arg wheel_separation)"/>
+  <xacro:property name="drive_track_scale" value="$(arg drive_track_scale)"/>
+  <xacro:property name="wheel_width" value="0.04"/>
+  <xacro:property name="wheel_x" value="0.08"/>
+  <xacro:property name="body_x" value="0.0"/>
+  <!-- DiffDrive integrates at the axle center. Keep its origin aligned in simulation. -->
+  <xacro:if value="$(arg simulation)">
+    <xacro:property name="wheel_x" value="0.0"/>
+    <xacro:property name="body_x" value="-0.04"/>
+  </xacro:if>
+  <material name="blue"><color rgba="0.15 0.4 0.85 1"/></material>
+  <material name="black"><color rgba="0.12 0.12 0.12 1"/></material>
+  <material name="gray"><color rgba="0.55 0.55 0.55 1"/></material>
+  <material name="red"><color rgba="0.85 0.12 0.12 1"/></material>
+  <xacro:include filename="robot_base.xacro"/>
+  <xacro:include filename="robot_laser.xacro"/>
+  <xacro:robot_base/>
+  <xacro:robot_laser/>
+  <xacro:if value="$(arg simulation)">
+    <xacro:include filename="robot_gazebo.xacro"/>
+  </xacro:if>
+</robot>

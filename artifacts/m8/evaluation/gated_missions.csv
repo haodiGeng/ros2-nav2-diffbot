@@ -1,0 +1,3 @@
+﻿trial,navigation_goals,navigation_successes,expected_preflight_refusals,actual_preflight_refusals,recoveries
+1,5,5,1,1,0
+2,5,5,1,1,0

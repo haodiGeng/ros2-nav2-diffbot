@@ -1,0 +1,14 @@
+{
+  "case_count": 11,
+  "successful_navigation_goals": 10,
+  "rejected_plan_observed_stationary": true,
+  "stable_following_passes": 7,
+  "stable_following_failures": [
+    "box_astar_0",
+    "box_astar_1",
+    "narrow_astar_0"
+  ],
+  "all_sampled_overlaps_zero": true,
+  "remaining_simulation_processes": [],
+  "M7_planner_and_M6_default_parameters_unchanged": true
+}

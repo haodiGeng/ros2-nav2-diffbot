@@ -1,0 +1,58 @@
+[
+  {
+    "case": "gap080_gate_0",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "preflight_rejection",
+    "status": 6
+  },
+  {
+    "case": "gap080_gate_1",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "preflight_rejection",
+    "status": 6
+  },
+  {
+    "case": "gap100_gate_0",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "preflight_rejection",
+    "status": 6
+  },
+  {
+    "case": "gap100_gate_1",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "preflight_rejection",
+    "status": 6
+  },
+  {
+    "case": "gap120_gate_0",
+    "passed": false,
+    "validation_passed": true,
+    "expected_outcome": "runtime_abort_and_hold",
+    "status": 6
+  },
+  {
+    "case": "gap120_gate_1",
+    "passed": false,
+    "validation_passed": true,
+    "expected_outcome": "runtime_abort_and_hold",
+    "status": 6
+  },
+  {
+    "case": "gap140_gate_0",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "success",
+    "status": 4
+  },
+  {
+    "case": "gap140_gate_1",
+    "passed": true,
+    "validation_passed": true,
+    "expected_outcome": "success",
+    "status": 4
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "run": "m7_reverse_debug",
+    "rows": [
+      {
+        "label": "around_box",
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "sim_start": 2.64,
+        "sim_end": 31.536,
+        "wall_seconds": 29.09968471900015,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 31.536,
+        "sim_end": 57.446000000000005,
+        "wall_seconds": 26.13337162799985,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "wide",
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "sim_start": 57.446000000000005,
+        "sim_end": 79.01,
+        "wall_seconds": 21.734983689000046,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 69,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return_again",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 79.01,
+        "sim_end": 95.65400000000001,
+        "wall_seconds": 16.654261101999964,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 6,
+        "recoveries": 0,
+        "reason": "navigation ended without success"
+      }
+    ],
+    "sampled_circle_clearance": 0.22094150177659422,
+    "circle_overlap_samples": 0
+  },
+  {
+    "run": "m7_reverse_release1",
+    "rows": [
+      {
+        "label": "around_box",
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "sim_start": 2.478,
+        "sim_end": 29.610000000000003,
+        "wall_seconds": 27.48111444799997,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 29.610000000000003,
+        "sim_end": 55.276,
+        "wall_seconds": 25.831537560000015,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "wide",
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "sim_start": 55.276,
+        "sim_end": 76.47200000000001,
+        "wall_seconds": 21.252115640000056,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return_again",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 76.47200000000001,
+        "sim_end": 107.902,
+        "wall_seconds": 31.57138759899999,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 67,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "narrow_rejected",
+        "goal": [
+          -3.3,
+          0.0
+        ],
+        "sim_start": 107.902,
+        "sim_end": 109.44000000000001,
+        "wall_seconds": 1.5104923070000495,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": false,
+        "preflight_accepted": true,
+        "preflight_status": 6,
+        "path_points": 0,
+        "status": 6,
+        "recoveries": 0,
+        "reason": "No clearance-compliant plan; navigation not sent"
+      },
+      {
+        "label": "after_rejection",
+        "goal": [
+          0.0,
+          -0.8
+        ],
+        "sim_start": 109.44000000000001,
+        "sim_end": 123.308,
+        "wall_seconds": 13.961127627999986,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 20,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      }
+    ],
+    "sampled_circle_clearance": 0.14519645528193387,
+    "circle_overlap_samples": 0
+  },
+  {
+    "run": "m7_reverse_release2",
+    "rows": [
+      {
+        "label": "around_box",
+        "goal": [
+          0.0,
+          2.6
+        ],
+        "sim_start": 2.432,
+        "sim_end": 29.424000000000003,
+        "wall_seconds": 27.140871971000024,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 29.424000000000003,
+        "sim_end": 56.444,
+        "wall_seconds": 27.070761468,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 56,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "wide",
+        "goal": [
+          3.3,
+          0.0
+        ],
+        "sim_start": 56.444,
+        "sim_end": 78.15400000000001,
+        "wall_seconds": 22.052550866000047,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "return_again",
+        "goal": [
+          0.0,
+          0.0
+        ],
+        "sim_start": 78.15400000000001,
+        "sim_end": 115.42,
+        "wall_seconds": 37.83367852900005,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 68,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      },
+      {
+        "label": "narrow_rejected",
+        "goal": [
+          -3.3,
+          0.0
+        ],
+        "sim_start": 115.42,
+        "sim_end": 116.95800000000001,
+        "wall_seconds": 1.5122385080001095,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": false,
+        "preflight_accepted": true,
+        "preflight_status": 6,
+        "path_points": 0,
+        "status": 6,
+        "recoveries": 0,
+        "reason": "No clearance-compliant plan; navigation not sent"
+      },
+      {
+        "label": "after_rejection",
+        "goal": [
+          0.0,
+          -0.8
+        ],
+        "sim_start": 116.95800000000001,
+        "sim_end": 129.73600000000002,
+        "wall_seconds": 13.172765911999932,
+        "planner_id": "ClearanceGate",
+        "navigation_goal_sent": true,
+        "preflight_accepted": true,
+        "preflight_status": 4,
+        "path_points": 20,
+        "behavior_tree": "/home/geng/nav_ws/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/clearance_gate.xml",
+        "status": 4,
+        "recoveries": 0,
+        "reason": "navigation succeeded"
+      }
+    ],
+    "sampled_circle_clearance": 0.2156847103242573,
+    "circle_overlap_samples": 0
+  }
+]

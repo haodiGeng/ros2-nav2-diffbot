@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/geng/nav_ws/install/my_robot_navigation/lib/my_robot_navigation/safe_navigate.py", line 83, in <module>
+    if __name__=='__main__':main()
+  File "/home/geng/nav_ws/install/my_robot_navigation/lib/my_robot_navigation/safe_navigate.py", line 78, in main
+    result=GatedNavigator(n).execute(goal)
+  File "/home/geng/nav_ws/install/my_robot_navigation/lib/my_robot_navigation/safe_navigate.py", line 43, in execute
+    self.require_idle()
+  File "/home/geng/nav_ws/install/my_robot_navigation/lib/my_robot_navigation/safe_navigate.py", line 30, in require_idle
+    if self.active:raise RuntimeError('Another navigation goal is active; refusing takeover')
+RuntimeError: Another navigation goal is active; refusing takeover

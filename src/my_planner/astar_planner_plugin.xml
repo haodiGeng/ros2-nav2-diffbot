@@ -1,0 +1,5 @@
+<library path="my_astar_planner">
+  <class name="my_planner/AStarPlanner" type="my_planner::AStarPlanner" base_class_type="nav2_core::GlobalPlanner">
+    <description>Configurable four/eight-connected AStar with conservative segment and clearance checks.</description>
+  </class>
+</library>

@@ -1,0 +1,20 @@
+{
+  "links": [
+    "base_footprint",
+    "base_link",
+    "left_wheel_link",
+    "right_wheel_link",
+    "caster_link",
+    "laser_link"
+  ],
+  "joints": [
+    "base_footprint_joint",
+    "left_wheel_joint",
+    "right_wheel_joint",
+    "caster_joint",
+    "laser_joint"
+  ],
+  "root": "base_footprint",
+  "geometry_and_inertia": "passed",
+  "wheel_and_caster_ground_contact": "passed"
+}

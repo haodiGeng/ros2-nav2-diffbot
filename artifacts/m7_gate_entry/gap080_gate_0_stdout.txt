@@ -1,0 +1,1 @@
+{"planner_id": "ClearanceGate", "navigation_goal_sent": false, "preflight_accepted": true, "preflight_status": 6, "path_points": 0, "status": 6, "recoveries": 0, "reason": "No clearance-compliant plan; navigation not sent"}
