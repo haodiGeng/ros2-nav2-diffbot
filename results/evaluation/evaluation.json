@@ -1,0 +1,282 @@
+{
+  "scope": "Archived static-scene evidence; this command does not collect new navigation trials",
+  "core_tests_passed": 14,
+  "fixed_map_measured_requests": 105,
+  "fixed_map_warmup_policy": "One excluded warm-up per query and variant; five measured requests",
+  "fixed_map_sha256": "90dd71165eceb20535a4eb3b1f4bb5969faaac47325a2681df97ca49cb079fb3",
+  "rejected_invalid_goals": 2,
+  "fixed_map": [
+    {
+      "query": 0,
+      "planner": "NavFnDijkstra",
+      "measured_requests": 5,
+      "median_planning_ms": 0.353017,
+      "median_path_length_m": 3.3345722566802976,
+      "sampled_center_obstacle_distance_m": 0.6202039176377133,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "NavFnAStar",
+      "measured_requests": 5,
+      "median_planning_ms": 0.312331,
+      "median_path_length_m": 3.3602769333394495,
+      "sampled_center_obstacle_distance_m": 0.6082762620938444,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "AStar8",
+      "measured_requests": 5,
+      "median_planning_ms": 0.686167,
+      "median_path_length_m": 3.270100578460104,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "AStar4",
+      "measured_requests": 5,
+      "median_planning_ms": 0.562257,
+      "median_path_length_m": 4.031622958722648,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "AStarUnweighted",
+      "measured_requests": 5,
+      "median_planning_ms": 0.48819900000000005,
+      "median_path_length_m": 2.7286792141549876,
+      "sampled_center_obstacle_distance_m": 0.3335416065733155,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "AStarHighWeight",
+      "measured_requests": 5,
+      "median_planning_ms": 0.5391830000000001,
+      "median_path_length_m": 3.270100578460104,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 0,
+      "planner": "AStarClearance",
+      "measured_requests": 5,
+      "median_planning_ms": 0.681729,
+      "median_path_length_m": 3.128679220115452,
+      "sampled_center_obstacle_distance_m": 0.5711829914510829,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "NavFnDijkstra",
+      "measured_requests": 5,
+      "median_planning_ms": 0.45079900000000006,
+      "median_path_length_m": 5.140452087079908,
+      "sampled_center_obstacle_distance_m": 0.7528571364509903,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "NavFnAStar",
+      "measured_requests": 5,
+      "median_planning_ms": 0.18734900000000002,
+      "median_path_length_m": 5.135812765898537,
+      "sampled_center_obstacle_distance_m": 0.7426651044327235,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "AStar8",
+      "measured_requests": 5,
+      "median_planning_ms": 0.45752200000000004,
+      "median_path_length_m": 5.210659756112016,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "AStar4",
+      "measured_requests": 5,
+      "median_planning_ms": 0.40939200000000003,
+      "median_path_length_m": 7.231622996039542,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "AStarUnweighted",
+      "measured_requests": 5,
+      "median_planning_ms": 0.41800800000000005,
+      "median_path_length_m": 5.122791789158645,
+      "sampled_center_obstacle_distance_m": 0.5303300937924448,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "AStarHighWeight",
+      "measured_requests": 5,
+      "median_planning_ms": 0.47464300000000004,
+      "median_path_length_m": 5.210659756112016,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 1,
+      "planner": "AStarClearance",
+      "measured_requests": 5,
+      "median_planning_ms": 0.9182490000000001,
+      "median_path_length_m": 5.181370433794226,
+      "sampled_center_obstacle_distance_m": 0.5711829914510829,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "NavFnDijkstra",
+      "measured_requests": 5,
+      "median_planning_ms": 0.5859110000000001,
+      "median_path_length_m": 4.683667627602713,
+      "sampled_center_obstacle_distance_m": 0.6651937893303644,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "NavFnAStar",
+      "measured_requests": 5,
+      "median_planning_ms": 0.34371900000000005,
+      "median_path_length_m": 4.686899135733986,
+      "sampled_center_obstacle_distance_m": 0.7124303412942594,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "AStar8",
+      "measured_requests": 5,
+      "median_planning_ms": 0.8333910000000001,
+      "median_path_length_m": 4.8650753490576495,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "AStar4",
+      "measured_requests": 5,
+      "median_planning_ms": 0.347267,
+      "median_path_length_m": 5.831622985544726,
+      "sampled_center_obstacle_distance_m": 0.7250000108033419,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "AStarUnweighted",
+      "measured_requests": 5,
+      "median_planning_ms": 0.394805,
+      "median_path_length_m": 4.6307607705153275,
+      "sampled_center_obstacle_distance_m": 0.3335416065733155,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "AStarHighWeight",
+      "measured_requests": 5,
+      "median_planning_ms": 0.6727920000000001,
+      "median_path_length_m": 4.8650753490576495,
+      "sampled_center_obstacle_distance_m": 0.6174544609622118,
+      "sampled_costmap_safe": true
+    },
+    {
+      "query": 2,
+      "planner": "AStarClearance",
+      "measured_requests": 5,
+      "median_planning_ms": 1.0543920000000002,
+      "median_path_length_m": 4.835786026739859,
+      "sampled_center_obstacle_distance_m": 0.5711829914510829,
+      "sampled_costmap_safe": true
+    }
+  ],
+  "closed_loop": [
+    {
+      "planner": "astar",
+      "repetition": 1,
+      "successful_goals": 4,
+      "attempted_goals": 4,
+      "recoveries": 0,
+      "sim_seconds": 106.056,
+      "actual_distance_m": 12.392192557526215,
+      "max_world_goal_error_m": 0.13032337375061798,
+      "minimum_sampled_circle_clearance_m": 0.25944766429198807
+    },
+    {
+      "planner": "navfn",
+      "repetition": 1,
+      "successful_goals": 4,
+      "attempted_goals": 4,
+      "recoveries": 0,
+      "sim_seconds": 106.816,
+      "actual_distance_m": 12.48652681372048,
+      "max_world_goal_error_m": 0.13891782295926433,
+      "minimum_sampled_circle_clearance_m": 0.2679195307864879
+    },
+    {
+      "planner": "navfn",
+      "repetition": 2,
+      "successful_goals": 4,
+      "attempted_goals": 4,
+      "recoveries": 0,
+      "sim_seconds": 105.084,
+      "actual_distance_m": 12.414916200581029,
+      "max_world_goal_error_m": 0.14734549102171493,
+      "minimum_sampled_circle_clearance_m": 0.23726212244704703
+    },
+    {
+      "planner": "astar",
+      "repetition": 2,
+      "successful_goals": 4,
+      "attempted_goals": 4,
+      "recoveries": 0,
+      "sim_seconds": 107.584,
+      "actual_distance_m": 12.689885834087567,
+      "max_world_goal_error_m": 0.11364108133648186,
+      "minimum_sampled_circle_clearance_m": 0.25175671400087796
+    }
+  ],
+  "gated_missions": [
+    {
+      "trial": 1,
+      "navigation_goals": 5,
+      "navigation_successes": 5,
+      "expected_preflight_refusals": 1,
+      "actual_preflight_refusals": 1,
+      "recoveries": 0
+    },
+    {
+      "trial": 2,
+      "navigation_goals": 5,
+      "navigation_successes": 5,
+      "expected_preflight_refusals": 1,
+      "actual_preflight_refusals": 1,
+      "recoveries": 0
+    }
+  ],
+  "desktop_goals_succeeded": 2,
+  "evidence_sha256": {
+    "artifacts/m7/planner_comparison.json": "da51f0bbd43b1453d95c6c8162027021af265f5f4100a2a98dd1299ca6f1b80c",
+    "artifacts/m7/frozen_costmap.json": "c4a0bd0bcd6981e421507f79b3646723efbbbaf9fd7c404d6d5a8e47fc67a114",
+    "artifacts/m7/test_astar_core.gtest.xml": "c11df5462a2ac851f59af7040405fa45981e422cca0445f03465fc7a81f36dcf",
+    "artifacts/m7_calibrated_comparison/report.json": "2baf85109268fa79c7352cac3a09cbb61ef0fb7ed8c5e8d495e5bd1ee0e39f0b",
+    "artifacts/m7_calibrated_comparison/acceptance_summary.json": "839efeb0c77428c2f3569bf5f655a40ea11e12d7bfac2c771eae029fad3846d4",
+    "artifacts/m7_calibrated_comparison/desktop_trial.json": "00a0dbd85a22d5d49fb019ff524c95d81756b18517667fdda44bfb8d786f2174",
+    "artifacts/m7_calibrated_regression1/results.json": "45a667716c1842f0a66c80c4c7980d79c25e61919c72f9e1abbe572cbacb9085",
+    "artifacts/m7_calibrated_regression2/results.json": "06a1d5fc81180b51154f6b1cb21833e58907b0613d9efa8847d7cfee55d0cabb"
+  },
+  "limitations": [
+    "Two fresh simulations per planner; goals within a simulation are correlated",
+    "Planner-server planning duration differs from action round-trip and navigation time",
+    "Fixed-map center distance differs from actual robot circle clearance",
+    "Goal-to-world endpoint error includes localization and navigation tolerance",
+    "No statistical superiority, dynamic-obstacle, precision-docking or hardware claim"
+  ],
+  "passed": true
+}

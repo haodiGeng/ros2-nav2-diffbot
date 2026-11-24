@@ -46,7 +46,7 @@ nav2_astar_params.yaml 与 nav2_navfn_comparison.yaml 同步采用此组合，�
 
 不能把“原配置 16 秒失败、新配置 32～38 秒成功”描述为耗时加速；本次修复的是任务完成能力，样本也不足以作一般性能排名。
 
-![反向返回位置和速度命令](../artifacts/m7_reverse_summary/reverse_comparison.png)
+![反向返回位置和速度命令](../../../artifacts/m7_reverse_summary/reverse_comparison.png)
 
 两轮全序列按半径 0.35 m 保守圆形计算，最小世界坐标采样障碍余量约 0.145 m、0.216 m，圆形采样重叠均为 0。0.15 m 是规划地图中的路径约束，不是世界真值的逐时刻保证；第一轮余量略低于此值，说明实际定位/跟踪误差仍影响间隙。这也不是连续碰撞证明。
 

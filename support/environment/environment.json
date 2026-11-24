@@ -1,0 +1,20 @@
+{
+  "system": "Linux-6.8.0-149-generic-x86_64-with-glibc2.35",
+  "os_release": "PRETTY_NAME=\"Ubuntu 22.04.5 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"22.04\"\nVERSION=\"22.04.5 LTS (Jammy Jellyfish)\"\nVERSION_CODENAME=jammy\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=jammy\n",
+  "python": "3.10.12",
+  "cpu_count": 4,
+  "meminfo": [
+    "MemTotal:        6019532 kB",
+    "MemFree:         2797804 kB",
+    "MemAvailable:    4678444 kB"
+  ],
+  "installed_packages": "libignition-gazebo6:amd64\t6.18.0-1~jammy\npython3-colcon-common-extensions\t0.3.0-100\npython3-matplotlib\t3.5.1-2build1\npython3-numpy\t1:1.21.5-1ubuntu22.04.1\npython3-yaml\t5.4.1-1ubuntu1\nros-humble-nav2-bringup\t1.1.20-1jammy.20261110.143749\nros-humble-nav2-rotation-shim-controller\t1.1.20-1jammy.20261110.121923\nros-humble-navigation2\t1.1.20-1jammy.20261110.141012\nros-humble-rmw-cyclonedds-cpp\t1.3.6-1jammy.20261105.210505\nros-humble-ros-gz-bridge\t0.244.27-1jammy.20261110.110817\nros-humble-ros-gz-sim\t0.244.27-1jammy.20261110.095230\nros-humble-slam-toolbox\t2.6.10-1jammy.20261110.140327\nros-humble-tf2\t0.25.23-1jammy.20260907.213559\nros-humble-tf2-ros\t0.25.23-1jammy.20260907.224752\n",
+  "package_query_stderr": "",
+  "geometry2_origin": "https://github.com/ros2/geometry2.git",
+  "geometry2_commit": "9bc9e89285515c8981ecd829c9400807372468c4",
+  "tf2_source_sha256": "33d65a11ec7c507d7b99acf80f27e4ea8bdcbb2af70f5682c74def3f8a67feb6",
+  "patched_overlay_packages": [
+    "tf2"
+  ],
+  "verification_scope": "Existing VM with installed dependencies; independent project extraction/build. Not a fresh OS installation."
+}

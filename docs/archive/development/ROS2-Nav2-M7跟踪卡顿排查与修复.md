@@ -48,7 +48,7 @@ controller_server:
 
 写入 `nav2_astar_params.yaml` 和 `nav2_navfn_comparison.yaml`，使两种规划器对照继续使用一致的 DWB。GoalAlign.scale 仍为 8，正式配置仍开启原评分提前退出、没有开启评估发布。未修改 A* 内核、软权重、硬净间隙、地图半径、碰撞评分、速度、目标容差或进度检查阈值。未对全局路径做未经碰撞检查的平滑。M6 默认 nav2_params.yaml 不变。
 
-![诊断模式下的速度选择与实际位置](../artifacts/m7_tracking/stall_comparison.png)
+![诊断模式下的速度选择与实际位置](../../../artifacts/m7_tracking/stall_comparison.png)
 
 ## 4. 关闭诊断后的正式回归
 

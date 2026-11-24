@@ -1,23 +1,54 @@
 # ros2-nav2-diffbot
 
-ROS 2 Humble / Nav2 差速移动机器人仿真项目，包含自建模型、SLAM 建图、AMCL 定位、绕障导航、自研 A* 全局规划插件，以及 NavFn 对照评测。
+ROS 2 Humble / Nav2 差速移动机器人仿真项目，包含自建模型、SLAM 建图、AMCL 定位、路径规划和运动控制，并实现可配置的 A* 全局规划插件，用于研究栅格连通性、对角切角规则和离障代价对导航行为的影响。
 
-![导航实际轨迹对照](artifacts/m7_calibrated_comparison/world_trajectories.png)
+适用于 ROS 2 导航学习、全局规划算法实验和静态场景中的导航方案验证。
 
-Ubuntu 22.04、ROS 2 Humble、Gazebo Fortress 仿真项目。已完成自建差速小车、建图定位、Nav2 导航和自研 A* 全局规划插件，M8 汇总评测并整理交付。
+## 主要功能
 
-## 从哪里开始
+- **差速机器人仿真**：底盘、轮组、激光雷达、轮式里程计和 ROS–Gazebo 话题桥接。
+- **建图与定位**：使用 SLAM Toolbox 构建地图，使用 AMCL 在已有地图中定位。
+- **导航控制**：接入 Nav2，使用 Rotation Shim 与 DWB 执行路径跟踪和转向。
+- **自研 A* 插件**：支持 4/8 连通、禁止对角切角、栅格代价权重、未知区域策略和可选额外净间距。
+- **任务预检**：检查机器人空闲状态与目标可达性，在路径不满足间距约束时拒绝启动导航。
 
-- 阶段总览与交付：[M8 评测与项目交付](docs/ROS2-Nav2-M8评测与项目交付.md)。
-- 算法实现：[M7 自研 A* 说明](docs/ROS2-Nav2-M7自研AStar规划器与验收.md)。
-- 当前配置验收：[校准配置回归与规划器对照](docs/ROS2-Nav2-M7校准配置回归与规划器对照.md)。
-- 可重新生成的结果：`artifacts/m8/evaluation/`。
+## 系统架构
 
-Windows 中的本目录存放源码、文档和证据；真正运行 ROS 的工作空间为 Ubuntu `~/nav_ws`。SSH 密钥属于个人连接配置，不是项目运行依赖，也不在交付包中。
+```mermaid
+flowchart LR
+  G[Gazebo 物理与传感器] --> B[ROS–Gazebo 桥接]
+  B --> L[SLAM 或 AMCL]
+  B --> M[Nav2 代价地图]
+  L --> M
+  M --> P[A* 或 NavFn 全局规划]
+  P --> C[Rotation Shim + DWB]
+  C --> B
+  B --> G
+  M --- R[RViz 可视化]
+```
 
-## 在现有 Ubuntu 上运行演示
+| ROS 包 | 职责 |
+|---|---|
+| `my_robot_description` | URDF/Xacro 模型与传感器安装关系 |
+| `my_robot_gazebo` | 仿真世界、差速驱动、传感器及话题桥接 |
+| `my_robot_navigation` | 建图、定位、导航配置与任务入口 |
+| `my_planner` | A* 搜索内核、Nav2 插件和单元测试 |
 
-先结束已有仿真，只保留一套系统。终端 A：
+## 环境与安装
+
+| 组件 | 已验证环境 |
+|---|---|
+| 操作系统 | Ubuntu 22.04 |
+| ROS 2 | Humble |
+| 仿真器 | Gazebo Fortress 6.18.0 |
+| 导航框架 | Nav2 1.1.20 |
+| DDS 实现 | Cyclone DDS |
+
+项目使用独立的 tf2 修复覆盖库，其源码、补丁及许可证随仓库提供。依赖安装、覆盖库构建和项目编译见 **[安装指南](docs/installation.md)**。
+
+## 运行导航演示
+
+完成安装后，在 Ubuntu 终端启动演示：
 
 ```bash
 source /opt/ros/humble/setup.bash
@@ -25,99 +56,64 @@ source ~/nav_ws/install/setup.bash
 ros2 run my_robot_navigation start_calibrated_navigation.sh gui:=true
 ```
 
-会打开 Gazebo 和 RViz，初始小车静止。地图与模型显示正常、导航节点激活后，终端 B 依次执行，前一个成功再执行下一个：
+该入口加载示例地图和仿真校准参数，打开 Gazebo 与 RViz。导航系统激活后，在另一个终端发送目标：
 
 ```bash
 source /opt/ros/humble/setup.bash
 source ~/nav_ws/install/setup.bash
 ros2 run my_robot_navigation start_safe_navigation.sh 0 2.6
+```
+
+机器人绕过示例场景中的箱体前往目标。任务成功后，可发送返回目标：
+
+```bash
 ros2 run my_robot_navigation start_safe_navigation.sh 0 0
 ```
 
-第一段绕过中间箱体，第二段返回。`start_safe_navigation.sh` 使用带预检和额外间距的任务入口；RViz 的普通 Nav2 Goal 不等同于该入口。请勿同时发送手动目标或键盘遥控。停止任务测试后，在终端 A 按 Ctrl+C 结束仿真。
+同一时刻只运行一套仿真和一个运动指令来源。建图、无 GUI 运行、任务状态与停止方法见 **[使用指南](docs/usage.md)**。
 
-默认使用软件渲染。VMware 中同时显示两个 GUI 会增加负载；自动实验通常使用 `gui:=false rviz:=false`。
+## 评测结果
 
-## 新环境准备与编译
+固定地图测试包含 3 组起终点、7 种规划配置，每组配置预热后测量 5 次，共 105 个测量请求。闭环导航对照中，自研 A* 与 NavFn 各运行两轮四目标序列，共 16 次导航，均成功且未触发恢复。
 
-以下步骤仅用于新工作空间，不覆盖已有 `~/nav_ws` 或 `~/tf_fix_ws`。实际环境版本与补丁见 `artifacts/m8/support/` 和 M8 文档；本项目没有承诺任意未来系统包版本均兼容。
+![A* 与 NavFn 的实际导航轨迹](artifacts/m7_calibrated_comparison/world_trajectories.png)
 
-1. 准备 Ubuntu 22.04、ROS 2 Humble 及其软件源。安装 ROS/Gazebo 和构建依赖（需要系统管理权限）：
+*图中为同一静态场景下的实际世界坐标轨迹，每种规划器重复两轮。*
 
-```bash
-sudo apt update
-sudo apt install ros-humble-ros-gz ros-humble-navigation2 ros-humble-nav2-bringup \
-  ros-humble-nav2-rotation-shim-controller ros-humble-slam-toolbox \
-  ros-humble-rmw-cyclonedds-cpp python3-colcon-common-extensions \
-  python3-rosdep python3-numpy python3-yaml python3-matplotlib
-```
-
-2. 在尚不存在 `~/nav_ws` 的新环境中克隆：
-
-```bash
-git clone https://github.com/haodiGeng/ros2-nav2-diffbot.git ~/nav_ws
-```
-
-也可以将完整交付包解压到 `~/nav_ws`，使源码位于 `~/nav_ws/src`。在未初始化 rosdep 的新系统执行 `sudo rosdep init`，之后执行 `rosdep update`。
-3. 建立独立 tf2 覆盖工作空间。源码快照已经带补丁，不要再重复打补丁：
-
-```bash
-mkdir -p ~/tf_fix_ws/src
-tar -xzf ~/nav_ws/artifacts/m8/support/geometry2-patched-source.tar.gz -C ~/tf_fix_ws/src
-source /opt/ros/humble/setup.bash
-cd ~/tf_fix_ws
-rosdep install --from-paths src --ignore-src -r -y --rosdistro humble
-colcon build --packages-select tf2 --cmake-args -DBUILD_TESTING=OFF
-```
-
-4. 编译项目四个包：
-
-```bash
-source /opt/ros/humble/setup.bash
-source ~/tf_fix_ws/install/setup.bash
-cd ~/nav_ws
-rosdep install --from-paths src --ignore-src -r -y --rosdistro humble
-colcon build --symlink-install
-source ~/nav_ws/install/setup.bash
-source ~/tf_fix_ws/install/setup.bash
-colcon test --packages-select my_planner
-colcon test-result --verbose
-```
-
-覆盖库的来源、补丁和 BSD 许可证随交付保存。新环境全流程仍需按本机依赖状态执行，交付验收记录明确区分同虚拟机独立构建与全新虚拟机验证。
-
-## 重新生成评测
-
-无需启动 ROS 或移动小车。Ubuntu 中：
+现有实验中，两种规划器的导航耗时和行驶距离接近；固定地图测试也未证明自研 A* 更快。自研实现主要提供可独立控制的搜索规则和代价参数。测试条件、指标定义、完整结果及复现命令见 **[评测说明](docs/evaluation.md)**。
 
 ```bash
 cd ~/nav_ws
 python3 tools/evaluate_project.py
 ```
 
-Windows PowerShell 中也可生成 JSON、CSV、Markdown（不要求安装绘图库）：
+该命令从归档数据重新生成表格和图表，输出至 `results/evaluation/`，不会启动机器人。
 
-```powershell
-python tools/evaluate_project.py --no-plots
+## 文档与目录
+
+- [安装指南](docs/installation.md)：依赖安装与构建。
+- [使用指南](docs/usage.md)：建图、导航、任务预检与停止操作。
+- [A* 规划器](docs/planner.md)：算法、接口、参数与约束。
+- [评测说明](docs/evaluation.md)：实验条件、指标及复现方式。
+- [常见问题](docs/troubleshooting.md)：GUI、传感器、定位与环境排查。
+
+```text
+src/        ROS 包源码、配置、模型与地图
+docs/       使用文档与归档开发记录
+tools/      评测、打包和完整性检查工具
+support/    依赖补丁、第三方源码与环境记录
+results/    汇总表与图表
+artifacts/  原始实验数据与历史证据
 ```
 
-脚本从存档重新计算指标并核查关键断言，不是新做了 105 次规划或 16 次导航。新导航实验复现步骤见 M7 专项文档；这些实验会实际驱动仿真小车，部分旧脚本会覆盖同名结果，应先归档。
+## 适用范围
 
-## 打包与验证
+已记录的验证覆盖静态仿真场景中的建图、定位、绕障和连续目标任务。动态障碍、真实硬件迁移、精确停靠和长时间稳定性尚未验收。示例仿真校准参数需要根据模型与传感器条件重新调整。
 
-```bash
-python3 tools/build_delivery.py
-python3 tools/verify_delivery.py artifacts/m8/delivery/ros2_nav2_m8_delivery.zip
-```
+当前复现检查是在同一 Ubuntu 虚拟机中独立解压、编译并运行完成，未覆盖全新系统从零安装。
 
-输出 ZIP、SHA-256 和逐文件清单。验证脚本可使用 `--extract-to 新目录` 校验并解压，目标目录必须尚不存在。
+## 许可证与反馈
 
-项目包：`my_robot_description`（模型）、`my_robot_gazebo`（物理与桥接）、`my_robot_navigation`（配置与启动）、`my_planner`（A* 内核与 Nav2 插件）。历史 M2 使用 BCR Bot，当前自建小车与其不是同一套模型配置。
+项目采用 [Apache-2.0](LICENSE)。第三方组件及 tf2 修复源码保留各自许可证，详见 [第三方说明](THIRD_PARTY_NOTICES.md)。
 
-当前验收限于已记录的静态仿真场景。动态障碍、实物迁移、精确停靠和大样本性能优势均未验收。
-
-## 许可证与发布材料
-
-本项目 ROS 包声明采用 Apache-2.0，完整条款见 [LICENSE](LICENSE)。第三方组件及 tf2 支持源码保留各自许可证，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
-
-源码仓库保留代码、配置、阶段说明与评测证据；运行日志和自动生成的交付 ZIP 不纳入 Git 历史。完整交付包及其 SHA-256 见 [GitHub Releases](https://github.com/haodiGeng/ros2-nav2-diffbot/releases)，仓库内也可用打包脚本重新生成。使用中遇到问题可在 [Issues](https://github.com/haodiGeng/ros2-nav2-diffbot/issues) 提供环境、启动命令和报错。
+完整发布包见 [Releases](https://github.com/haodiGeng/ros2-nav2-diffbot/releases)。使用问题或改进建议可通过 [Issues](https://github.com/haodiGeng/ros2-nav2-diffbot/issues) 提交，并附环境版本、启动命令和相关日志。

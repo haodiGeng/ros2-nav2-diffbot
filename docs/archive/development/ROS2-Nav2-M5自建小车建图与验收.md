@@ -68,7 +68,7 @@ M4 验证了小车能运动并产生传感器数据；M5 将 `/scan`、轮式 `/
 
 墙面间距由占据格的行列直方图峰值估计，上下方向差异为一个栅格。这是局部尺寸诊断，不是整幅地图的误差评测；没有据此计算或宣称全局建图精度。
 
-已检查 [地图预览](../artifacts/m5/map_preview.png)：箱体方形轮廓已形成，没有明显大范围重影，但边界上的部分墙线存在间断。地图尺寸本身也不代表每个区域都已充分观测。M6 使用前仍需检查边界与代价地图，必要时继续补扫或优化建图参数。
+已检查 [地图预览](../../../artifacts/m5/map_preview.png)：箱体方形轮廓已形成，没有明显大范围重影，但边界上的部分墙线存在间断。地图尺寸本身也不代表每个区域都已充分观测。M6 使用前仍需检查边界与代价地图，必要时继续补扫或优化建图参数。
 
 ## 5. 文件保存在哪里
 
@@ -161,7 +161,7 @@ ros2 service call /slam_toolbox/deserialize_map \
 
 以上验证不是 Ubuntu 关机开机测试；也不代表已经完成 AMCL 定位或导航。
 
-验收证据包括 [补扫记录](../artifacts/m5/mapping_sweep.json)、[SLAM 恢复结果](../artifacts/m5/restore_validation.json)、[地图文件加载结果](../artifacts/m5/map_file_validation.json)、[整合入口结果](../artifacts/m5/combined_launch_validation.json) 和 [地图指标](../artifacts/m5/map_metrics.json)。
+验收证据包括 [补扫记录](../../../artifacts/m5/mapping_sweep.json)、[SLAM 恢复结果](../../../artifacts/m5/restore_validation.json)、[地图文件加载结果](../../../artifacts/m5/map_file_validation.json)、[整合入口结果](../../../artifacts/m5/combined_launch_validation.json) 和 [地图指标](../../../artifacts/m5/map_metrics.json)。
 
 ## 9. 当前状态和下一阶段
 

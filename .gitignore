@@ -6,6 +6,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
+dist/
 
 # Local editor and connection credentials
 .vscode/
@@ -27,3 +28,5 @@ artifacts/m8/github_upload/
 
 # Required, small third-party source snapshot for the documented tf2 overlay
 !artifacts/m8/support/geometry2-patched-source.tar.gz
+!support/tf2/geometry2-patched-source.tar.gz
+!support/tf2/geometry2-patched-source.tar.gz

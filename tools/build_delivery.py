@@ -4,14 +4,14 @@ import hashlib,json,zipfile
 from pathlib import Path
 
 root=Path(__file__).resolve().parents[1]
-out=root/'artifacts/m8/delivery';out.mkdir(parents=True,exist_ok=True)
-archive=out/'ros2_nav2_m8_delivery.zip'
+out=root/'dist';out.mkdir(parents=True,exist_ok=True)
+archive=out/'ros2-nav2-diffbot.zip'
 files=[]
-for directory in ['src','docs','tools','artifacts']:
+for directory in ['src','docs','tools','support','results','artifacts']:
  for p in (root/directory).rglob('*'):
   if not p.is_file():continue
   rel=p.relative_to(root)
-  if p.is_relative_to(out) or p.is_relative_to(root/'artifacts/m8/github_upload') or any(x in rel.parts for x in ['.git','__pycache__']):continue
+  if p.is_relative_to(root/'artifacts/m8/delivery') or p.is_relative_to(root/'artifacts/m8/github_upload') or any(x in rel.parts for x in ['.git','__pycache__']):continue
   if p.is_symlink():raise RuntimeError('Unexpected symlink: '+str(rel))
   files.append(p)
 for name in ['README.md','THIRD_PARTY_NOTICES.md','LICENSE','.gitignore','.gitattributes']:

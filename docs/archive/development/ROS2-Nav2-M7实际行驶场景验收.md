@@ -34,7 +34,7 @@
 
 10 次实际行驶均最终返回 SUCCEEDED=4，全部轨迹采样未发现车体与场景障碍重叠。窄通道 0.034 m 余量很小，加上触发恢复，不能将这一结果作为稳定或安全推荐。
 
-![世界坐标实际行驶轨迹](../artifacts/m7_physical/physical_paths.png)
+![世界坐标实际行驶轨迹](../../../artifacts/m7_physical/physical_paths.png)
 
 ## 3. 已定位到的异常范围
 

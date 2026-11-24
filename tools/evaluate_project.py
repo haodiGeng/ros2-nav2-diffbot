@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Recompute M8 tables from archived evidence. Never starts or drives ROS nodes."""
+"""Recompute evaluation tables from archived evidence without starting ROS nodes."""
 import argparse,csv,hashlib,json,statistics,xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -14,7 +14,7 @@ def main():
  parser=argparse.ArgumentParser(description=__doc__)
  parser.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[1])
  parser.add_argument('--no-plots',action='store_true')
- args=parser.parse_args();root=args.root.resolve();out=root/'artifacts/m8/evaluation';out.mkdir(parents=True,exist_ok=True)
+ args=parser.parse_args();root=args.root.resolve();out=root/'results/evaluation';out.mkdir(parents=True,exist_ok=True)
  inputs=['artifacts/m7/planner_comparison.json','artifacts/m7/frozen_costmap.json',
          'artifacts/m7/test_astar_core.gtest.xml','artifacts/m7_calibrated_comparison/report.json',
          'artifacts/m7_calibrated_comparison/acceptance_summary.json',
@@ -60,7 +60,7 @@ def main():
  desktop=read(root/inputs[5]);assert desktop['completed'] and len(desktop['rows'])==2
  assert all(r['status']==4 and r['recoveries']==0 for r in desktop['rows'])
  audit=read(root/inputs[4]);assert all(audit['protected_sources_unchanged'].values())
- report={'scope':'Archived M7 static-scene evidence, consolidated for M8; no new navigation trial',
+ report={'scope':'Archived static-scene evidence; this command does not collect new navigation trials',
   'core_tests_passed':len(cases),'fixed_map_measured_requests':len(measured),
   'fixed_map_warmup_policy':'One excluded warm-up per query and variant; five measured requests',
   'fixed_map_sha256':p['costmap_sha256'],'rejected_invalid_goals':2,
@@ -74,7 +74,7 @@ def main():
   'passed':True}
  write_csv(out/'fixed_map.csv',fixed);write_csv(out/'closed_loop.csv',closed);write_csv(out/'gated_missions.csv',gates)
  (out/'evaluation.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
- lines=['# M8 unified evaluation','',report['scope'],'',
+ lines=['# Navigation evaluation','',report['scope'],'',
   '## Closed-loop navigation','',
   '| Planner / repeat | Success | Recovery | Sim time / s | Actual distance / m | Max world goal error / m | Min sampled circle gap / m |',
   '|---|---:|---:|---:|---:|---:|---:|']

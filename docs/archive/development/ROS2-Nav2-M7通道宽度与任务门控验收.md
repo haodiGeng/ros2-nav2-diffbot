@@ -38,7 +38,7 @@
 
 0.9 m 是本轮测过的最小稳定宽度，不代表精确临界宽度；未测试 0.81～0.89 m，也未覆盖不同入口角度、地图偏移、速度或动态障碍。原始记录、几何、地图和表格保存在 `artifacts/m7_width_study/`。
 
-![各宽度的实际横向位移，0.8 m 曲线包含恢复动作](../artifacts/m7_width_study/lateral_paths.png)
+![各宽度的实际横向位移，0.8 m 曲线包含恢复动作](../../../artifacts/m7_width_study/lateral_paths.png)
 
 ## 3. 新任务入口：预检后再导航
 

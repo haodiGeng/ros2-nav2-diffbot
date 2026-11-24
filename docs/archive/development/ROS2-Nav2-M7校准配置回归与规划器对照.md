@@ -48,7 +48,7 @@ python3 ~/nav_ws/src/my_robot_navigation/scripts/calibrated_planner_comparison.p
 
 原始对照见 `artifacts/m7_calibrated_comparison/report.json`；实验配置和每轮日志同目录保存。完整真值、TF 和计划记录位于 `artifacts/m7_localization/compare_*_loop/record.json`。
 
-![四轮世界坐标实际轨迹](../artifacts/m7_calibrated_comparison/world_trajectories.png)
+![四轮世界坐标实际轨迹](../../../artifacts/m7_calibrated_comparison/world_trajectories.png)
 
 ## 检查与可视演示
 

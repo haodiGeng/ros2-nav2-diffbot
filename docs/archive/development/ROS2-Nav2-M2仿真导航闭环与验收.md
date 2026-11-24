@@ -190,7 +190,7 @@ GUI 适合观察场景和机器人实际运动，RViz 适合查看地图、定�
 
 四个目标之间没有重置 AMCL。车身矩形及四脚轮投影与测试箱的离散几何重叠采样均为 0；该检查不覆盖所有附件，不能替代接触传感器或连续碰撞检测。位置偏差为 AMCL 与邻近时间戳 world 里程计之差，不能作为真实轮式里程计条件下的定位精度。
 
-原始数据可查阅 [冷启动轨迹](../artifacts/bcr/cold_reboot_rpp_regression.json)、[几何复核摘要](../artifacts/bcr/cold_reboot_rpp_regression_summary.json)、[运行日志](../artifacts/bcr/cold_reboot_rpp_navigation.log) 和 [环境记录](../artifacts/bcr/cold_reboot_rpp_environment.json)。运行配置与 Windows 副本指纹一致，重启后修复库加载正常。
+原始数据可查阅 [冷启动轨迹](../../../artifacts/bcr/cold_reboot_rpp_regression.json)、[几何复核摘要](../../../artifacts/bcr/cold_reboot_rpp_regression_summary.json)、[运行日志](../../../artifacts/bcr/cold_reboot_rpp_navigation.log) 和 [环境记录](../../../artifacts/bcr/cold_reboot_rpp_environment.json)。运行配置与 Windows 副本指纹一致，重启后修复库加载正常。
 
 ## 9. M2 完成后的边界与下一阶段
 

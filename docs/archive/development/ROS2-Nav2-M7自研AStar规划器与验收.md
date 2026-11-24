@@ -100,7 +100,7 @@ edge(u,v) = length(u,v) × [1 + cost_weight × (C(u)+C(v))/(2×252)]
 
 结果显示权重 0 更接近障碍，权重 2 更偏向绕远；从 2 增至 8 在查询 0 中并未继续改变路线，说明权重与距离并非线性关系。4 邻接产生更长的阶梯路线。NavFn 的这组规划时间更短，不能把自研价值表述成速度必然更快。
 
-![同一地图上的规划路径比较](../artifacts/m7/planner_paths.png)
+![同一地图上的规划路径比较](../../../artifacts/m7/planner_paths.png)
 
 完整三组数据见 `artifacts/m7/comparison_table.md` 和 `planner_comparison.json`。原始网格为 `frozen_costmap.json`，绘图脚本为 `render_comparison.py`。障碍内目标 (1.2,0)、地图外目标 (20,20) 均得到 ABORTED=6、路径点数 0。
 
@@ -119,7 +119,7 @@ edge(u,v) = length(u,v) × [1 + cost_weight × (C(u)+C(v))/(2×252)]
 
 六次结果均为 SUCCEEDED=4；按现有模型车体、轮组和支撑轮几何投影计算，采样重叠次数均为 0。此处距离是车体到测试箱的采样距离，与上一节“路径中心到栅格障碍”的指标不同，也不覆盖所有墙面或未建模障碍。
 
-![实际导航轨迹和耗时](../artifacts/m7/navigation_comparison.png)
+![实际导航轨迹和耗时](../../../artifacts/m7/navigation_comparison.png)
 
 每种规划器仅完整运行一次，AMCL 采样和系统调度不同，不能把时间差全部归因于规划器，也不能据此发布统计性能排名。第三目标 map 目标与 world 末端的距离分别约 0.268 m、0.240 m；AMCL/world 最大配对位置差约 0.288 m、0.266 m。map/world 尚未做独立外参标定，这些是诊断差值；但也表明不能将 Nav2 到点成功等同于世界坐标精准到点。最后一条 AMCL 消息早于最终状态，不能拿其朝向误差代替最终目标检查器的判断。
 
